@@ -1,0 +1,21 @@
+# Render Blueprint: free web service for the sync API.
+# Database: Supabase free tier (Render's free Postgres expires after 30 days).
+services:
+  - type: web
+    name: lexi-api
+    runtime: node
+    plan: free
+    region: frankfurt
+    buildCommand: npm ci --workspace @lexi/api --include-workspace-root
+    startCommand: npm run start -w @lexi/api
+    healthCheckPath: /health
+    autoDeploy: true
+    envVars:
+      - key: NODE_VERSION
+        value: "24"
+      - key: DATABASE_URL
+        sync: false # paste the Supabase connection string in the dashboard
+      - key: CORS_ORIGIN
+        sync: false # e.g. https://lexi.vercel.app
+      - key: AUTO_MIGRATE
+        value: "true"

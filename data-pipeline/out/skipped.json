@@ -1,0 +1,1922 @@
+[
+ {
+  "headword": "a",
+  "pos": "determiner",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "about",
+  "pos": "preposition",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "above",
+  "pos": "preposition",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "according to",
+  "pos": "preposition",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "across",
+  "pos": "preposition",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "after",
+  "pos": "conjunction",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "after",
+  "pos": "preposition",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "against",
+  "pos": "preposition",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "all",
+  "pos": "determiner",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "all",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "along",
+  "pos": "preposition",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "alongside",
+  "pos": "preposition",
+  "level": "B2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "although",
+  "pos": "conjunction",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "am",
+  "pos": "be-verb",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "among",
+  "pos": "preposition",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "amongst",
+  "pos": "preposition",
+  "level": "B2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "an",
+  "pos": "determiner",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "and",
+  "pos": "conjunction",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "another",
+  "pos": "determiner",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "another",
+  "pos": "pronoun",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "any",
+  "pos": "determiner",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "any",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "anybody",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "anyone",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "anything",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "are",
+  "pos": "be-verb",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "around",
+  "pos": "preposition",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "as",
+  "pos": "conjunction",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "as",
+  "pos": "preposition",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "at",
+  "pos": "preposition",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "be",
+  "pos": "be-verb",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "because",
+  "pos": "conjunction",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "because of",
+  "pos": "preposition",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "been",
+  "pos": "be-verb",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "before",
+  "pos": "conjunction",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "before",
+  "pos": "preposition",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "behind",
+  "pos": "preposition",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "below",
+  "pos": "preposition",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "beneath",
+  "pos": "preposition",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "beside",
+  "pos": "preposition",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "besides",
+  "pos": "preposition",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "between",
+  "pos": "preposition",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "beyond",
+  "pos": "preposition",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "both",
+  "pos": "determiner",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "both",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "but",
+  "pos": "conjunction",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "but",
+  "pos": "preposition",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "by",
+  "pos": "preposition",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "can",
+  "pos": "modal auxiliary",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "concerning",
+  "pos": "preposition",
+  "level": "B2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "considering",
+  "pos": "conjunction",
+  "level": "B2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "considering",
+  "pos": "preposition",
+  "level": "B2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "could",
+  "pos": "modal auxiliary",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "damn",
+  "pos": "interjection",
+  "level": "B2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "despite",
+  "pos": "preposition",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "did",
+  "pos": "do-verb",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "do",
+  "pos": "do-verb",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "does",
+  "pos": "do-verb",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "doing",
+  "pos": "do-verb",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "done",
+  "pos": "do-verb",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "down",
+  "pos": "preposition",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "dozen",
+  "pos": "determiner",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "during",
+  "pos": "preposition",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "each",
+  "pos": "determiner",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "each",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "each other",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "eight",
+  "pos": "number",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "eighteen",
+  "pos": "number",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "eighty",
+  "pos": "number",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "either",
+  "pos": "conjunction",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "either",
+  "pos": "determiner",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "either",
+  "pos": "pronoun",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "eleven",
+  "pos": "number",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "enough",
+  "pos": "determiner",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "enough",
+  "pos": "pronoun",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "every",
+  "pos": "determiner",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "everybody",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "everyone",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "everything",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "except",
+  "pos": "conjunction",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "except",
+  "pos": "preposition",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "few",
+  "pos": "determiner",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "few",
+  "pos": "pronoun",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "fifteen",
+  "pos": "number",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "fifty",
+  "pos": "number",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "five",
+  "pos": "number",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "following",
+  "pos": "preposition",
+  "level": "B2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "for",
+  "pos": "conjunction",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "for",
+  "pos": "preposition",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "forty",
+  "pos": "number",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "four",
+  "pos": "number",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "fourteen",
+  "pos": "number",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "from",
+  "pos": "preposition",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "gee",
+  "pos": "interjection",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "good afternoon",
+  "pos": "interjection",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "good morning",
+  "pos": "interjection",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "good night",
+  "pos": "interjection",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "goodness",
+  "pos": "interjection",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "had",
+  "pos": "have-verb",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "half",
+  "pos": "determiner",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "half",
+  "pos": "pronoun",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "has",
+  "pos": "have-verb",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "have",
+  "pos": "have-verb",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "have to",
+  "pos": "modal auxiliary",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "he",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "her",
+  "pos": "determiner",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "her",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "hers",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "herself",
+  "pos": "pronoun",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "hey",
+  "pos": "interjection",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "hi",
+  "pos": "interjection",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "him",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "himself",
+  "pos": "pronoun",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "his",
+  "pos": "determiner",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "his",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "hundred",
+  "pos": "number",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "I",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "if",
+  "pos": "conjunction",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "in",
+  "pos": "preposition",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "including",
+  "pos": "preposition",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "inside",
+  "pos": "preposition",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "instead of",
+  "pos": "preposition",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "into",
+  "pos": "preposition",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "is",
+  "pos": "be-verb",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "it",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "its",
+  "pos": "determiner",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "its",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "itself",
+  "pos": "pronoun",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "last",
+  "pos": "determiner",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "last",
+  "pos": "pronoun",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "latter",
+  "pos": "pronoun",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "least",
+  "pos": "determiner",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "least",
+  "pos": "pronoun",
+  "level": "B2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "less",
+  "pos": "determiner",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "less",
+  "pos": "pronoun",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "lest",
+  "pos": "conjunction",
+  "level": "B2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "like",
+  "pos": "conjunction",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "like",
+  "pos": "preposition",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "little",
+  "pos": "determiner",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "little",
+  "pos": "pronoun",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "lot",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "'m",
+  "pos": "be-verb",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "many",
+  "pos": "determiner",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "many",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "may",
+  "pos": "modal auxiliary",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "me",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "might",
+  "pos": "modal auxiliary",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "million",
+  "pos": "number",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "mine",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "minus",
+  "pos": "preposition",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "more",
+  "pos": "determiner",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "more",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "most",
+  "pos": "determiner",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "most",
+  "pos": "pronoun",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "much",
+  "pos": "determiner",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "much",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "must",
+  "pos": "modal auxiliary",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "my",
+  "pos": "determiner",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "myself",
+  "pos": "pronoun",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "near",
+  "pos": "preposition",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "need",
+  "pos": "modal auxiliary",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "neither",
+  "pos": "conjunction",
+  "level": "B2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "neither",
+  "pos": "determiner",
+  "level": "B2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "neither",
+  "pos": "pronoun",
+  "level": "B2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "next",
+  "pos": "determiner",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "next",
+  "pos": "pronoun",
+  "level": "B2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "next to",
+  "pos": "preposition",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "nine",
+  "pos": "number",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "nineteen",
+  "pos": "number",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "ninety",
+  "pos": "number",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "no",
+  "pos": "determiner",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "no one",
+  "pos": "pronoun",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "nobody",
+  "pos": "pronoun",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "none",
+  "pos": "pronoun",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "nor",
+  "pos": "conjunction",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "nothing",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "now",
+  "pos": "conjunction",
+  "level": "B2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "of",
+  "pos": "preposition",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "off",
+  "pos": "preposition",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "on",
+  "pos": "preposition",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "once",
+  "pos": "conjunction",
+  "level": "B2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "one",
+  "pos": "determiner",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "one",
+  "pos": "number",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "one",
+  "pos": "pronoun",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "oneself",
+  "pos": "pronoun",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "onto/on to",
+  "pos": "preposition",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "opposite",
+  "pos": "preposition",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "or",
+  "pos": "conjunction",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "other",
+  "pos": "determiner",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "other",
+  "pos": "pronoun",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "ought to",
+  "pos": "modal auxiliary",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "our",
+  "pos": "determiner",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "ours",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "ourselves",
+  "pos": "pronoun",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "out of",
+  "pos": "preposition",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "outside",
+  "pos": "preposition",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "over",
+  "pos": "preposition",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "owing to",
+  "pos": "preposition",
+  "level": "B2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "own",
+  "pos": "pronoun",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "past",
+  "pos": "preposition",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "per",
+  "pos": "preposition",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "plenty",
+  "pos": "pronoun",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "plus",
+  "pos": "conjunction",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "plus",
+  "pos": "preposition",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "provided",
+  "pos": "conjunction",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "'re",
+  "pos": "be-verb",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "regarding",
+  "pos": "preposition",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "round",
+  "pos": "preposition",
+  "level": "B2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "'s",
+  "pos": "be-verb",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "same",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "second",
+  "pos": "pronoun",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "seven",
+  "pos": "number",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "seventeen",
+  "pos": "number",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "seventy",
+  "pos": "number",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "several",
+  "pos": "determiner",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "several",
+  "pos": "pronoun",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "shall",
+  "pos": "modal auxiliary",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "she",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "should",
+  "pos": "modal auxiliary",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "since",
+  "pos": "conjunction",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "since",
+  "pos": "preposition",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "six",
+  "pos": "number",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "sixteen",
+  "pos": "number",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "sixty",
+  "pos": "number",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "so",
+  "pos": "conjunction",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "some",
+  "pos": "determiner",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "some",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "somebody",
+  "pos": "pronoun",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "someone",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "something",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "such",
+  "pos": "determiner",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "such",
+  "pos": "pronoun",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "ten",
+  "pos": "number",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "than",
+  "pos": "conjunction",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "than",
+  "pos": "preposition",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "that",
+  "pos": "conjunction",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "that",
+  "pos": "determiner",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "that",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "the",
+  "pos": "determiner",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "their",
+  "pos": "determiner",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "theirs",
+  "pos": "pronoun",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "them",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "themselves",
+  "pos": "pronoun",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "these",
+  "pos": "determiner",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "these",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "they",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "thirteen",
+  "pos": "number",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "thirty",
+  "pos": "number",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "this",
+  "pos": "determiner",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "this",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "those",
+  "pos": "determiner",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "those",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "though",
+  "pos": "conjunction",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "thousand",
+  "pos": "number",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "three",
+  "pos": "number",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "through",
+  "pos": "preposition",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "throughout",
+  "pos": "preposition",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "till",
+  "pos": "conjunction",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "till",
+  "pos": "preposition",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "times",
+  "pos": "preposition",
+  "level": "B2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "to",
+  "pos": "infinitive-to",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "to",
+  "pos": "preposition",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "toward/towards",
+  "pos": "preposition",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "twelve",
+  "pos": "number",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "twenty",
+  "pos": "number",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "two",
+  "pos": "number",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "under",
+  "pos": "preposition",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "underneath",
+  "pos": "preposition",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "unless",
+  "pos": "conjunction",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "unlike",
+  "pos": "preposition",
+  "level": "B2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "until",
+  "pos": "conjunction",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "until",
+  "pos": "preposition",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "unto",
+  "pos": "preposition",
+  "level": "B2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "up",
+  "pos": "preposition",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "upon",
+  "pos": "preposition",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "us",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "used to",
+  "pos": "modal auxiliary",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "versus",
+  "pos": "preposition",
+  "level": "B2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "via",
+  "pos": "preposition",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "was",
+  "pos": "be-verb",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "we",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "welcome",
+  "pos": "interjection",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "were",
+  "pos": "be-verb",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "what",
+  "pos": "determiner",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "what",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "whatever",
+  "pos": "determiner",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "whatever",
+  "pos": "pronoun",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "when",
+  "pos": "conjunction",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "whenever",
+  "pos": "conjunction",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "where",
+  "pos": "conjunction",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "whereas",
+  "pos": "conjunction",
+  "level": "B2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "wherever",
+  "pos": "conjunction",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "whether",
+  "pos": "conjunction",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "which",
+  "pos": "determiner",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "which",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "whichever",
+  "pos": "determiner",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "whichever",
+  "pos": "pronoun",
+  "level": "B2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "while",
+  "pos": "conjunction",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "who",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "whoever",
+  "pos": "pronoun",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "whom",
+  "pos": "pronoun",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "whose",
+  "pos": "determiner",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "whose",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "will",
+  "pos": "modal auxiliary",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "with",
+  "pos": "preposition",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "within",
+  "pos": "preposition",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "without",
+  "pos": "preposition",
+  "level": "A2",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "would",
+  "pos": "modal auxiliary",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "yet",
+  "pos": "conjunction",
+  "level": "B1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "you",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "your",
+  "pos": "determiner",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "yours",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "yourself",
+  "pos": "pronoun",
+  "level": "A1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "notwithstanding",
+  "pos": "preposition",
+  "level": "C1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "batter",
+  "pos": "",
+  "level": "C1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "behind",
+  "pos": "preposition",
+  "level": "C1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "amid",
+  "pos": "preposition",
+  "level": "C1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "aboard",
+  "pos": "preposition",
+  "level": "C1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "whilst",
+  "pos": "conjunction",
+  "level": "C1",
+  "reason": "unsupported_pos"
+ },
+ {
+  "headword": "vis-a-vis",
+  "pos": "preposition",
+  "level": "C2",
+  "reason": "unsupported_pos"
+ }
+]

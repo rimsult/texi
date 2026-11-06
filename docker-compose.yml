@@ -1,0 +1,28 @@
+# Local stack: PostgreSQL 16 (same major as Supabase) + the sync API.
+#   docker compose up -d db          # only the database
+#   docker compose up --build        # database + API on http://localhost:8787
+#   DATABASE_URL=postgres://lexi:lexi@localhost:5432/lexi npm run seed -w @lexi/api
+services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: lexi
+      POSTGRES_PASSWORD: lexi
+      POSTGRES_DB: lexi
+    ports: ["5432:5432"]
+    volumes: [pgdata:/var/lib/postgresql/data]
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U lexi"]
+      interval: 2s
+      retries: 20
+  api:
+    build: { context: ., dockerfile: apps/api/Dockerfile }
+    environment:
+      DATABASE_URL: postgres://lexi:lexi@db:5432/lexi
+      CORS_ORIGIN: "*"
+      PORT: "8787"
+    ports: ["8787:8787"]
+    depends_on:
+      db: { condition: service_healthy }
+volumes:
+  pgdata:

@@ -1,0 +1,23 @@
+node_modules/
+dist/
+dist-e2e/
+dist-standalone/
+test-results/
+playwright-report/
+coverage/
+.env
+.env.local
+*.log
+.DS_Store
+__pycache__/
+.pytest_cache/
+.shots/
+# Large third-party downloads: run data-pipeline/scripts/fetch_sources.sh
+data-pipeline/raw/wikdict-en-ru.sqlite3
+data-pipeline/raw/ru_50k.txt
+data-pipeline/raw/*.xml
+data-pipeline/raw/*.bz2
+data-pipeline/raw/translate-en_ru-1_9
+data-pipeline/raw/*.argosmodel
+data-pipeline/raw/wmt19-en-ru
+data-pipeline/raw/simple-extract.jsonl.gz

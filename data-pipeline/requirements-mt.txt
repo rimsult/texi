@@ -1,0 +1,6 @@
+ctranslate2>=4.0
+sentencepiece>=0.2
+# WMT19 translation and the BERT gap-fill check (CPU wheels: see scripts/fetch_mt_model.sh)
+torch>=2.2
+transformers>=4.40
+sacremoses>=0.1

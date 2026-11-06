@@ -1,0 +1,32 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/">
+  <page>
+    <title>dog</title>
+    <revision><text xml:space="preserve">==English==
+===Noun===
+{{en-noun}}
+# {{lb|en|countable}} A [[mammal]], ''[[Canis familiaris]]'', often kept as a [[pet]].
+#: {{ux|en|The dog barked.}}
+# {{lb|en|slang}} An unattractive [[person]].
+
+====Translations====
+{{trans-top|animal}}
+* French: {{t+|fr|chien|m}}
+* Russian: {{t+|ru|соба́ка|f}}, {{t+|ru|пёс|m}}
+{{trans-bottom}}
+
+===Verb===
+# To [[follow]] [[persistently]].
+
+==French==
+===Noun===
+# chien
+</text></revision>
+  </page>
+  <page>
+    <title>chien</title>
+    <revision><text xml:space="preserve">==French==
+===Noun===
+# dog
+</text></revision>
+  </page>
+</mediawiki>

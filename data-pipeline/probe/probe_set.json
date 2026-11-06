@@ -1,0 +1,2978 @@
+[
+ {
+  "key": "noun|an adult female person",
+  "pos": "noun",
+  "en": "an adult female person",
+  "current": "взрослый женский человек",
+  "level": "A1",
+  "lemma": "woman",
+  "kind": "definition",
+  "flags": [
+   "person_phrase"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|The author was giving a reading of his new book.",
+  "pos": "example",
+  "en": "The author was giving a reading of his new book.",
+  "current": "Автор читал свою новую книгу.",
+  "level": "A1",
+  "lemma": "reading",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|He took off his clothes and got into the shower.",
+  "pos": "example",
+  "en": "He took off his clothes and got into the shower.",
+  "current": "Он снял одежду и пошел в душ.",
+  "level": "A1",
+  "lemma": "clothes",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|I'm late for school. I don't have time for breakfast today.",
+  "pos": "example",
+  "en": "I'm late for school. I don't have time for breakfast today.",
+  "current": "Я опаздываю в школу, у меня сегодня нет времени на завтрак.",
+  "level": "A1",
+  "lemma": "breakfast",
+  "kind": "example",
+  "flags": [
+   "lost_part"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|She seems to be sleeping.",
+  "pos": "example",
+  "en": "She seems to be sleeping.",
+  "current": "Похоже, она спит.",
+  "level": "A2",
+  "lemma": "seem",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|You should wear sunglasses if it is a sunny day.",
+  "pos": "example",
+  "en": "You should wear sunglasses if it is a sunny day.",
+  "current": "Вы должны носить солнечные очки, если это солнечный день.",
+  "level": "A2",
+  "lemma": "sunglasses",
+  "kind": "example",
+  "flags": [
+   "stem_repeat"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "noun|the darkest color; with no light; the color of the sky at night",
+  "pos": "noun",
+  "en": "the darkest color; with no light; the color of the sky at night",
+  "current": "самый темный цвет; без света; цвет неба ночью",
+  "level": "A1",
+  "lemma": "black",
+  "kind": "definition",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|Getting a driver's licence is a rite of passage from being a child to becoming an adult.",
+  "pos": "example",
+  "en": "Getting a driver's licence is a rite of passage from being a child to becoming an adult.",
+  "current": "Получение водительских прав - это путь от ребенка до взрослого.",
+  "level": "A2",
+  "lemma": "passage",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|The chieftain bears a spear.",
+  "pos": "example",
+  "en": "The chieftain bears a spear.",
+  "current": "Вождь несет копье.",
+  "level": "A2",
+  "lemma": "bear",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "adjective|big; of great size; broad, tall, wide, long, or fat",
+  "pos": "adjective",
+  "en": "big; of great size; broad, tall, wide, long, or fat",
+  "current": "большой; большого размера; широкий, высокий, широкий, длинный или толстый",
+  "level": "A1",
+  "lemma": "large",
+  "kind": "definition",
+  "flags": [
+   "stem_repeat"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "noun|any mechanical or electrical device that transmits or modifies energy to perform or assist in the performance of human tasks",
+  "pos": "noun",
+  "en": "any mechanical or electrical device that transmits or modifies energy to perform or assist in the performance of human tasks",
+  "current": "любое механическое или электрическое устройство, которое передает или модифицирует энергию для выполнения или оказания помощи в выполнении человеческих задач",
+  "level": "A1",
+  "lemma": "machine",
+  "kind": "definition",
+  "flags": [
+   "stem_repeat"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "adjective|if someone or something is good-looking, it is looks attractive",
+  "pos": "adjective",
+  "en": "if someone or something is good-looking, it is looks attractive",
+  "current": "если кто-то или что-то красиво выглядит, это выглядит привлекательно",
+  "level": "A2",
+  "lemma": "good-looking",
+  "kind": "definition",
+  "flags": [
+   "stem_repeat"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "noun|a food that grows under the ground, which is round and white inside",
+  "pos": "noun",
+  "en": "a food that grows under the ground, which is round and white inside",
+  "current": "пища, которая растет под землей, которая круглая и белая внутри",
+  "level": "A1",
+  "lemma": "potato",
+  "kind": "definition",
+  "flags": [
+   "stem_repeat"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|She kicked the door down.",
+  "pos": "example",
+  "en": "She kicked the door down.",
+  "current": "Она вышибла дверь.",
+  "level": "A1",
+  "lemma": "kick",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|The best film of the year.",
+  "pos": "example",
+  "en": "The best film of the year.",
+  "current": "Лучший фильм года.",
+  "level": "A1",
+  "lemma": "best",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|This man killed several people when he tried to rob a bank.",
+  "pos": "example",
+  "en": "This man killed several people when he tried to rob a bank.",
+  "current": "Этот человек убил несколько человек, когда пытался ограбить банк.",
+  "level": "A1",
+  "lemma": "kill",
+  "kind": "example",
+  "flags": [
+   "stem_repeat"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|The children went out to play in the yard.",
+  "pos": "example",
+  "en": "The children went out to play in the yard.",
+  "current": "Дети вышли поиграть во двор.",
+  "level": "A1",
+  "lemma": "yard",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|I gave the door a kick.",
+  "pos": "example",
+  "en": "I gave the door a kick.",
+  "current": "Я ударил дверью.",
+  "level": "A1",
+  "lemma": "kick",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "noun|the act of throwing",
+  "pos": "noun",
+  "en": "the act of throwing",
+  "current": "акт бросания",
+  "level": "A1",
+  "lemma": "throw",
+  "kind": "definition",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "noun|the first month of the year",
+  "pos": "noun",
+  "en": "the first month of the year",
+  "current": "первый месяц года",
+  "level": "A1",
+  "lemma": "January",
+  "kind": "definition",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "adjective|if something is big, it is large in size; tall, wide, long, or fat",
+  "pos": "adjective",
+  "en": "if something is big, it is large in size; tall, wide, long, or fat",
+  "current": "если что-то большое, оно большого размера; высокое, широкое, длинное или жирное",
+  "level": "A1",
+  "lemma": "big",
+  "kind": "definition",
+  "flags": [
+   "stem_repeat"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|The boat disappeared beneath the waves.",
+  "pos": "example",
+  "en": "The boat disappeared beneath the waves.",
+  "current": "Корабль исчез под волнами.",
+  "level": "A2",
+  "lemma": "disappear",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "adverb|by good fortune",
+  "pos": "adverb",
+  "en": "by good fortune",
+  "current": "счастливчик",
+  "level": "A2",
+  "lemma": "luckily",
+  "kind": "definition",
+  "flags": [
+   "collapsed",
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|He is from the west.",
+  "pos": "example",
+  "en": "He is from the west.",
+  "current": "Он с Запада.",
+  "level": "A2",
+  "lemma": "west",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|The sight of his wife brought him back to reality.",
+  "pos": "example",
+  "en": "The sight of his wife brought him back to reality.",
+  "current": "Вид его жены вернул его к реальности.",
+  "level": "A1",
+  "lemma": "sight",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|She's gone to the seashore.",
+  "pos": "example",
+  "en": "She's gone to the seashore.",
+  "current": "Она ушла к морю.",
+  "level": "A1",
+  "lemma": "go",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|Lightning is very dangerous.",
+  "pos": "example",
+  "en": "Lightning is very dangerous.",
+  "current": "Молния очень опасна.",
+  "level": "A2",
+  "lemma": "dangerous",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "adjective|the principal thing is the main or most important one",
+  "pos": "adjective",
+  "en": "the principal thing is the main or most important one",
+  "current": "главное — это главное или самое важное",
+  "level": "A2",
+  "lemma": "principal",
+  "kind": "definition",
+  "flags": [
+   "stem_repeat",
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|We'll pick up some milk at the convenience store on the corner.",
+  "pos": "example",
+  "en": "We'll pick up some milk at the convenience store on the corner.",
+  "current": "Мы возьмем немного молока в магазине на углу.",
+  "level": "A2",
+  "lemma": "convenience",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "adjective|unconstrained or not chemically bound in a molecule or not fixed and capable of relatively unrestricted motion",
+  "pos": "adjective",
+  "en": "unconstrained or not chemically bound in a molecule or not fixed and capable of relatively unrestricted motion",
+  "current": "неограниченный или химически не связанный в молекуле или не фиксированный и способный к относительно неограниченному движению",
+  "level": "A1",
+  "lemma": "free",
+  "kind": "definition",
+  "flags": [
+   "stem_repeat"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|A baseball, a softball, a football, and a soccer ball are examples of balls.",
+  "pos": "example",
+  "en": "A baseball, a softball, a football, and a soccer ball are examples of balls.",
+  "current": "Бейсбол, софтбол, футбол и футбольный мяч - примеры мячей.",
+  "level": "A1",
+  "lemma": "example",
+  "kind": "example",
+  "flags": [
+   "stem_repeat"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "noun|a male human",
+  "pos": "noun",
+  "en": "a male human",
+  "current": "человек мужского пола",
+  "level": "A1",
+  "lemma": "man",
+  "kind": "definition",
+  "flags": [
+   "person_phrase"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "noun|a restraint used to slow or stop a vehicle",
+  "pos": "noun",
+  "en": "a restraint used to slow or stop a vehicle",
+  "current": "удерживающее устройство, используемое для замедления или остановки транспортного средства",
+  "level": "A2",
+  "lemma": "brake",
+  "kind": "definition",
+  "flags": [
+   "long"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|Give me that book, please; I want to read it.",
+  "pos": "example",
+  "en": "Give me that book, please; I want to read it.",
+  "current": "Дайте мне эту книгу, пожалуйста, я хочу ее прочитать.",
+  "level": "A1",
+  "lemma": "give",
+  "kind": "example",
+  "flags": [
+   "lost_part"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|I only have one older brothers and one younger brother. I'm the second child.",
+  "pos": "example",
+  "en": "I only have one older brothers and one younger brother. I'm the second child.",
+  "current": "У меня только один старший брат и один младший брат.",
+  "level": "A1",
+  "lemma": "second",
+  "kind": "example",
+  "flags": [
+   "lost_part",
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|The media refers to the war as \"the troubles\".",
+  "pos": "example",
+  "en": "The media refers to the war as \"the troubles\".",
+  "current": "СМИ называют войну «проблемой».",
+  "level": "A2",
+  "lemma": "refer",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "adverb|not much",
+  "pos": "adverb",
+  "en": "not much",
+  "current": "не так уж и много",
+  "level": "A1",
+  "lemma": "little",
+  "kind": "definition",
+  "flags": [
+   "long"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "adjective|something that is usual happens often",
+  "pos": "adjective",
+  "en": "something that is usual happens often",
+  "current": "обычное случается часто",
+  "level": "A2",
+  "lemma": "usual",
+  "kind": "definition",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "noun|a description of something that has happened",
+  "pos": "noun",
+  "en": "a description of something that has happened",
+  "current": "описание того, что произошло",
+  "level": "A2",
+  "lemma": "report",
+  "kind": "definition",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "noun|the soft part of the body below the chest",
+  "pos": "noun",
+  "en": "the soft part of the body below the chest",
+  "current": "мягкая часть тела под грудью",
+  "level": "A2",
+  "lemma": "belly",
+  "kind": "definition",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "noun|large area where many people live and work, larger than a town",
+  "pos": "noun",
+  "en": "large area where many people live and work, larger than a town",
+  "current": "большая территория, где живет и работает много людей, больше, чем город",
+  "level": "A1",
+  "lemma": "city",
+  "kind": "definition",
+  "flags": [
+   "stem_repeat"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|There are seven days in one week.",
+  "pos": "example",
+  "en": "There are seven days in one week.",
+  "current": "Есть семь дней в неделю.",
+  "level": "A1",
+  "lemma": "week",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|He had a number of chores to do.",
+  "pos": "example",
+  "en": "He had a number of chores to do.",
+  "current": "У него было много дел.",
+  "level": "A1",
+  "lemma": "number",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|The plural of the word \"dog\" is \"dogs.",
+  "pos": "example",
+  "en": "The plural of the word \"dog\" is \"dogs.",
+  "current": "Множественное число слова «собака» — «собаки».",
+  "level": "A2",
+  "lemma": "plural",
+  "kind": "example",
+  "flags": [
+   "stem_repeat"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|You're a better man than I am, Gunga Din.",
+  "pos": "example",
+  "en": "You're a better man than I am, Gunga Din.",
+  "current": "Ты лучше, чем я, Ганга Дин.",
+  "level": "A1",
+  "lemma": "better",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|He stood away in the black of the night.",
+  "pos": "example",
+  "en": "He stood away in the black of the night.",
+  "current": "Он стоял в темноте ночи.",
+  "level": "A1",
+  "lemma": "black",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|He ate everything on his plate.",
+  "pos": "example",
+  "en": "He ate everything on his plate.",
+  "current": "Он ел все на тарелке.",
+  "level": "A2",
+  "lemma": "plate",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "adjective|if a day is sunny, you can see the sun clearly in the sky and there is a lot of sunshine",
+  "pos": "adjective",
+  "en": "if a day is sunny, you can see the sun clearly in the sky and there is a lot of sunshine",
+  "current": "если день солнечный, вы можете ясно видеть солнце в небе, и есть много солнечного света",
+  "level": "A1",
+  "lemma": "sunny",
+  "kind": "definition",
+  "flags": [
+   "stem_repeat"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "adverb|in or to a place that is lower",
+  "pos": "adverb",
+  "en": "in or to a place that is lower",
+  "current": "в месте, которое ниже",
+  "level": "A1",
+  "lemma": "below",
+  "kind": "definition",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|This is the business area of town.",
+  "pos": "example",
+  "en": "This is the business area of town.",
+  "current": "Это деловой район города.",
+  "level": "A2",
+  "lemma": "area",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "adverb|throughout the world",
+  "pos": "adverb",
+  "en": "throughout the world",
+  "current": "во всем мире",
+  "level": "A2",
+  "lemma": "worldwide",
+  "kind": "definition",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|He produced the paper out of his bag.",
+  "pos": "example",
+  "en": "He produced the paper out of his bag.",
+  "current": "Он вытащил бумагу из сумки.",
+  "level": "A2",
+  "lemma": "produce",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "noun|the position of something is the place where the thing is",
+  "pos": "noun",
+  "en": "the position of something is the place where the thing is",
+  "current": "позиция чего-то - это место, где вещь",
+  "level": "A2",
+  "lemma": "position",
+  "kind": "definition",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|I forgot to brush my teeth before going to bed.",
+  "pos": "example",
+  "en": "I forgot to brush my teeth before going to bed.",
+  "current": "Я забыл почистить зубы перед сном.",
+  "level": "A1",
+  "lemma": "brush",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|Young children put small toys in their mouths and sometimes swallow them.",
+  "pos": "example",
+  "en": "Young children put small toys in their mouths and sometimes swallow them.",
+  "current": "Маленькие дети кладут маленькие игрушки в рот и иногда проглатывают их.",
+  "level": "A2",
+  "lemma": "swallow",
+  "kind": "example",
+  "flags": [
+   "stem_repeat"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "noun|something carried, often something heavy",
+  "pos": "noun",
+  "en": "something carried, often something heavy",
+  "current": "несли, часто что-то тяжелое",
+  "level": "A2",
+  "lemma": "load",
+  "kind": "definition",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|The burn on my arm hurts.",
+  "pos": "example",
+  "en": "The burn on my arm hurts.",
+  "current": "У меня болит рука.",
+  "level": "A2",
+  "lemma": "burn",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "noun|weedy annual native to Europe but widely distributed as a weed especially in wheat",
+  "pos": "noun",
+  "en": "weedy annual native to Europe but widely distributed as a weed especially in wheat",
+  "current": "сорняк ежегодно уроженец Европы, но широко распространен как сорняк, особенно в пшенице",
+  "level": "A2",
+  "lemma": "chess",
+  "kind": "definition",
+  "flags": [
+   "stem_repeat"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "noun|a request the act of asking for something",
+  "pos": "noun",
+  "en": "a request the act of asking for something",
+  "current": "просьба - это акт просьбы о чем-то",
+  "level": "A2",
+  "lemma": "request",
+  "kind": "definition",
+  "flags": [
+   "stem_repeat"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|An atmosphere electric with suspicion.",
+  "pos": "example",
+  "en": "An atmosphere electric with suspicion.",
+  "current": "Атмосфера подозрительности.",
+  "level": "A2",
+  "lemma": "electric",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "adjective|having the properties of a magnet",
+  "pos": "adjective",
+  "en": "having the properties of a magnet",
+  "current": "со свойствами магнита",
+  "level": "A2",
+  "lemma": "attractive",
+  "kind": "definition",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "verb|to pronounce something is the act of saying a word",
+  "pos": "verb",
+  "en": "to pronounce something is the act of saying a word",
+  "current": "произносить что-либо — это акт произнесения слова",
+  "level": "A2",
+  "lemma": "pronounce",
+  "kind": "definition",
+  "flags": [
+   "stem_repeat"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "noun|when x makes or has contact with y, they touch each other physically",
+  "pos": "noun",
+  "en": "when x makes or has contact with y, they touch each other physically",
+  "current": "когда x соприкасается с y, они физически соприкасаются друг с другом",
+  "level": "A2",
+  "lemma": "contact",
+  "kind": "definition",
+  "flags": [
+   "stem_repeat"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "adjective|something that is green in color",
+  "pos": "adjective",
+  "en": "something that is green in color",
+  "current": "имеет зеленый цвет",
+  "level": "A1",
+  "lemma": "green",
+  "kind": "definition",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "noun|a powerful stroke with the fist or a weapon",
+  "pos": "noun",
+  "en": "a powerful stroke with the fist or a weapon",
+  "current": "мощный удар кулаком или оружием",
+  "level": "A2",
+  "lemma": "blow",
+  "kind": "definition",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|That path leads into the woods.",
+  "pos": "example",
+  "en": "That path leads into the woods.",
+  "current": "Этот путь ведет в лес.",
+  "level": "A2",
+  "lemma": "path",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "noun|something that is caused by something else",
+  "pos": "noun",
+  "en": "something that is caused by something else",
+  "current": "то, что вызвано чем-то другим",
+  "level": "A2",
+  "lemma": "effect",
+  "kind": "definition",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "noun|a sector or group of sectors that function as the smallest data unit permitted",
+  "pos": "noun",
+  "en": "a sector or group of sectors that function as the smallest data unit permitted",
+  "current": "сектор или группа секторов, которые функционируют как самая маленькая единица данных, разрешенная",
+  "level": "A1",
+  "lemma": "block",
+  "kind": "definition",
+  "flags": [
+   "stem_repeat"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|Slay means kill. Both of them mean to make dead.",
+  "pos": "example",
+  "en": "Slay means kill. Both of them mean to make dead.",
+  "current": "Убить - значит убить. И то, и другое - сделать мертвым.",
+  "level": "A1",
+  "lemma": "mean",
+  "kind": "example",
+  "flags": [
+   "stem_repeat"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|Was quick to make friends.",
+  "pos": "example",
+  "en": "Was quick to make friends.",
+  "current": "Быстро подружился.",
+  "level": "A2",
+  "lemma": "quick",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|Would you like some cream in your coffee?",
+  "pos": "example",
+  "en": "Would you like some cream in your coffee?",
+  "current": "Хотите немного сливок в кофе?",
+  "level": "A1",
+  "lemma": "cream",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "noun|somebody's return is when they come back",
+  "pos": "noun",
+  "en": "somebody's return is when they come back",
+  "current": "возвращение кого-то - это когда они возвращаются",
+  "level": "A2",
+  "lemma": "return",
+  "kind": "definition",
+  "flags": [
+   "stem_repeat"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "adjective|of or occurring every seven days",
+  "pos": "adjective",
+  "en": "of or occurring every seven days",
+  "current": "каждые семь дней кто-то",
+  "level": "A2",
+  "lemma": "weekly",
+  "kind": "definition",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "verb|to enter is to go into something",
+  "pos": "verb",
+  "en": "to enter is to go into something",
+  "current": "войти — значит войти во что-то",
+  "level": "A2",
+  "lemma": "enter",
+  "kind": "definition",
+  "flags": [
+   "stem_repeat"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|He loved the Beatles, and had bought all their albums.",
+  "pos": "example",
+  "en": "He loved the Beatles, and had bought all their albums.",
+  "current": "Он любил «Битлз» и купил все их альбомы.",
+  "level": "A1",
+  "lemma": "album",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "verb|the act of giving a formal authorization",
+  "pos": "verb",
+  "en": "the act of giving a formal authorization",
+  "current": "к акту формальной авторизации",
+  "level": "A2",
+  "lemma": "license",
+  "kind": "definition",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "noun|the act of exchanging",
+  "pos": "noun",
+  "en": "the act of exchanging",
+  "current": "актом обмена",
+  "level": "A2",
+  "lemma": "exchange",
+  "kind": "definition",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|The nerve is dead.",
+  "pos": "example",
+  "en": "The nerve is dead.",
+  "current": "Нерв мёртв.",
+  "level": "A2",
+  "lemma": "dead",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "adjective|a wooden object is made of wood",
+  "pos": "adjective",
+  "en": "a wooden object is made of wood",
+  "current": "деревянный предмет сделан из дерева",
+  "level": "A2",
+  "lemma": "wooden",
+  "kind": "definition",
+  "flags": [
+   "stem_repeat"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|We've been conducting research into the reason for the changes in these fish.",
+  "pos": "example",
+  "en": "We've been conducting research into the reason for the changes in these fish.",
+  "current": "Мы проводили исследования причин изменений в этих рыбках.",
+  "level": "A2",
+  "lemma": "research",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|The living image of her mother.",
+  "pos": "example",
+  "en": "The living image of her mother.",
+  "current": "Живой образ ее матери.",
+  "level": "A1",
+  "lemma": "living",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|There was a recent report on the election.",
+  "pos": "example",
+  "en": "There was a recent report on the election.",
+  "current": "Был недавний отчет о выборах.",
+  "level": "A2",
+  "lemma": "report",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "noun|a domestic animal often kept as a pet; it has whiskers and likes to chase mice",
+  "pos": "noun",
+  "en": "a domestic animal often kept as a pet; it has whiskers and likes to chase mice",
+  "current": "домашнее животное, часто содержащееся в качестве домашнего животного; у него есть усы и он любит преследовать мышей",
+  "level": "A1",
+  "lemma": "cat",
+  "kind": "definition",
+  "flags": [
+   "stem_repeat"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "noun|the home of a king or queen",
+  "pos": "noun",
+  "en": "the home of a king or queen",
+  "current": "дом короля или королевы",
+  "level": "A1",
+  "lemma": "palace",
+  "kind": "definition",
+  "flags": [
+   "stem_repeat"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|The gun is evidence that professor Pickle killed Mr. Mustard.",
+  "pos": "example",
+  "en": "The gun is evidence that professor Pickle killed Mr. Mustard.",
+  "current": "Оружие является доказательством того, что профессор Пикл убил мистера Мастарда.",
+  "level": "A2",
+  "lemma": "evidence",
+  "kind": "example",
+  "flags": [
+   "lost_part"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "noun|an act that is against the law and for which you can go to jail",
+  "pos": "noun",
+  "en": "an act that is against the law and for which you can go to jail",
+  "current": "деяние, которое противоречит закону и за которое вы можете попасть в тюрьму",
+  "level": "A2",
+  "lemma": "crime",
+  "kind": "definition",
+  "flags": [
+   "stem_repeat"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|She put the seeds into the ground in the garden so that food and flowers would grow.",
+  "pos": "example",
+  "en": "She put the seeds into the ground in the garden so that food and flowers would grow.",
+  "current": "Она положила семена в землю в саду, чтобы росла еда и цветы.",
+  "level": "A2",
+  "lemma": "seed",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|A snail is a very slow animal. It moves slowly.",
+  "pos": "example",
+  "en": "A snail is a very slow animal. It moves slowly.",
+  "current": "Улитка - очень медленное животное. Она движется медленно.",
+  "level": "A1",
+  "lemma": "slow",
+  "kind": "example",
+  "flags": [
+   "stem_repeat"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "noun|a hard substance that forms naturally in the Earth's surface",
+  "pos": "noun",
+  "en": "a hard substance that forms naturally in the Earth's surface",
+  "current": "твердое вещество, которое естественным образом образуется на поверхности Земли",
+  "level": "A2",
+  "lemma": "rock",
+  "kind": "definition",
+  "flags": [
+   "stem_repeat"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "noun|something you read for the news; it is usually published on cheap paper",
+  "pos": "noun",
+  "en": "something you read for the news; it is usually published on cheap paper",
+  "current": "то, что вы читаете для новостей, обычно публикуется на дешевой бумаге",
+  "level": "A1",
+  "lemma": "newspaper",
+  "kind": "definition",
+  "flags": [
+   "lost_part"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|Shhh! Listen! Did you hear that?",
+  "pos": "example",
+  "en": "Shhh! Listen! Did you hear that?",
+  "current": "Слушай, ты это слышал?",
+  "level": "A1",
+  "lemma": "listen",
+  "kind": "example",
+  "flags": [
+   "lost_part",
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|A pleasing piece of news.",
+  "pos": "example",
+  "en": "A pleasing piece of news.",
+  "current": "Приятная новость.",
+  "level": "A2",
+  "lemma": "pleasing",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "noun|traditional genre of music conforming to an established form and appealing to critical interest and developed musical taste",
+  "pos": "noun",
+  "en": "traditional genre of music conforming to an established form and appealing to critical interest and developed musical taste",
+  "current": "традиционный жанр музыки, соответствующий устоявшейся форме и привлекающий критический интерес и развитый музыкальный вкус",
+  "level": "A2",
+  "lemma": "classical music",
+  "kind": "definition",
+  "flags": [
+   "stem_repeat"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "adjective|beneath the surface of the water",
+  "pos": "adjective",
+  "en": "beneath the surface of the water",
+  "current": "под поверхностью воды",
+  "level": "A2",
+  "lemma": "underwater",
+  "kind": "definition",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "adjective|if something is direct, it is straight and as short as possible with nothing extra in between",
+  "pos": "adjective",
+  "en": "if something is direct, it is straight and as short as possible with nothing extra in between",
+  "current": "если что-то прямое, то оно прямое и как можно более короткое, не содержащее ничего лишнего между ними",
+  "level": "A2",
+  "lemma": "direct",
+  "kind": "definition",
+  "flags": [
+   "stem_repeat"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "noun|money that you pay for public transportation; that is, to ride on a bus, taxi, train or airplane",
+  "pos": "noun",
+  "en": "money that you pay for public transportation; that is, to ride on a bus, taxi, train or airplane",
+  "current": "деньги, которые вы платите за общественный транспорт, то есть ездить на автобусе, такси, поезде или самолете",
+  "level": "A2",
+  "lemma": "fare",
+  "kind": "definition",
+  "flags": [
+   "lost_part"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|Please open the gate for me; my hands are full.",
+  "pos": "example",
+  "en": "Please open the gate for me; my hands are full.",
+  "current": "Пожалуйста, откройте для меня ворота, мои руки полны.",
+  "level": "A2",
+  "lemma": "gate",
+  "kind": "example",
+  "flags": [
+   "lost_part"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|He explained the difference between the two.",
+  "pos": "example",
+  "en": "He explained the difference between the two.",
+  "current": "Он объяснил разницу между ними.",
+  "level": "A2",
+  "lemma": "explain",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|It is solely by their language that the upper classes nowadays are distinguished.",
+  "pos": "example",
+  "en": "It is solely by their language that the upper classes nowadays are distinguished.",
+  "current": "Только по их языку сегодня выделяются высшие классы.",
+  "level": "A1",
+  "lemma": "today",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "example|For your sake.",
+  "pos": "example",
+  "en": "For your sake.",
+  "current": "Ради тебя.",
+  "level": "A2",
+  "lemma": "sake",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "flagged"
+ },
+ {
+  "key": "noun|something that you give to someone who has done something very well",
+  "pos": "noun",
+  "en": "something that you give to someone who has done something very well",
+  "current": "то, что вы даете тому, кто сделал что-то очень хорошо",
+  "level": "A2",
+  "lemma": "award",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "verb|if you carry something, you lift it up and move it to another place",
+  "pos": "verb",
+  "en": "if you carry something, you lift it up and move it to another place",
+  "current": "если вы носите что-то, вы поднимаете его и перемещаете в другое место",
+  "level": "A1",
+  "lemma": "carry",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "adverb|to or in any or all places",
+  "pos": "adverb",
+  "en": "to or in any or all places",
+  "current": "в любое или во все места",
+  "level": "A1",
+  "lemma": "everywhere",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|the person who controls a meeting or an organization",
+  "pos": "noun",
+  "en": "the person who controls a meeting or an organization",
+  "current": "лицо, контролирующее собрание или организацию",
+  "level": "A2",
+  "lemma": "chairman",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "verb|when you share something, you let another person use it",
+  "pos": "verb",
+  "en": "when you share something, you let another person use it",
+  "current": "когда вы делитесь чем-то, вы позволяете другому человеку использовать его",
+  "level": "A1",
+  "lemma": "share",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "adjective|in imminent danger of extinction",
+  "pos": "adjective",
+  "en": "in imminent danger of extinction",
+  "current": "в неминуемой опасности вымирания",
+  "level": "A2",
+  "lemma": "endangered",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|two shoes are two things that someone wears on their feet; shoes have a hard, flat bottom",
+  "pos": "noun",
+  "en": "two shoes are two things that someone wears on their feet; shoes have a hard, flat bottom",
+  "current": "две туфли — это две вещи, которые кто-то носит на ногах; обувь имеет твердое, ровное дно",
+  "level": "A1",
+  "lemma": "shoe",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|overly eager speed",
+  "pos": "noun",
+  "en": "overly eager speed",
+  "current": "слишком стремительная скорость",
+  "level": "A1",
+  "lemma": "hurry",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "verb|if you mix something, you stir two or more things together",
+  "pos": "verb",
+  "en": "if you mix something, you stir two or more things together",
+  "current": "если вы что-то смешиваете, вы смешиваете две или более вещи вместе",
+  "level": "A2",
+  "lemma": "mix",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "adjective|strong enough to knock down or overwhelm",
+  "pos": "adjective",
+  "en": "strong enough to knock down or overwhelm",
+  "current": "достаточно сильны, чтобы сбить или сокрушить",
+  "level": "A2",
+  "lemma": "powerful",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|hole made by pulling or ripping something",
+  "pos": "noun",
+  "en": "hole made by pulling or ripping something",
+  "current": "отверстие, сделанное путем вытягивания или разрыва чего-либо",
+  "level": "A2",
+  "lemma": "tear",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "verb|if you guess at something, you try to imagine what it might be, but you don't know the answer",
+  "pos": "verb",
+  "en": "if you guess at something, you try to imagine what it might be, but you don't know the answer",
+  "current": "если вы догадываетесь о чем-то, вы пытаетесь представить, что это может быть, но вы не знаете ответа",
+  "level": "A1",
+  "lemma": "guess",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|something you may put human waste into",
+  "pos": "noun",
+  "en": "something you may put human waste into",
+  "current": "во что можно вложить человеческие отходы",
+  "level": "A1",
+  "lemma": "toilet",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|a person who is from a different country",
+  "pos": "noun",
+  "en": "a person who is from a different country",
+  "current": "человек, который является выходцем из другой страны",
+  "level": "A1",
+  "lemma": "foreigner",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "adverb|by chance",
+  "pos": "adverb",
+  "en": "by chance",
+  "current": "случайно",
+  "level": "A1",
+  "lemma": "maybe",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "adjective|if you are busy, you are doing something and not available to do something else",
+  "pos": "adjective",
+  "en": "if you are busy, you are doing something and not available to do something else",
+  "current": "если вы заняты, вы делаете что-то и не можете сделать что-то другое",
+  "level": "A1",
+  "lemma": "busy",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|a game played against a computer",
+  "pos": "noun",
+  "en": "a game played against a computer",
+  "current": "игра, в которую играют против компьютера",
+  "level": "A2",
+  "lemma": "video game",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|any of various plants of the family Cucurbitaceae grown for food",
+  "pos": "noun",
+  "en": "any of various plants of the family Cucurbitaceae grown for food",
+  "current": "любое из различных растений семейства тыквенных, выращенных для пищи",
+  "level": "A2",
+  "lemma": "melon",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "adverb|sooner than expected",
+  "pos": "adverb",
+  "en": "sooner than expected",
+  "current": "раньше, чем ожидалось",
+  "level": "A1",
+  "lemma": "early",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|something's context is the situation that it happens in",
+  "pos": "noun",
+  "en": "something's context is the situation that it happens in",
+  "current": "контекстом чего-то является ситуация, в которой это происходит",
+  "level": "A2",
+  "lemma": "context",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|a place where art is displayed",
+  "pos": "noun",
+  "en": "a place where art is displayed",
+  "current": "место, где выставляется искусство",
+  "level": "A2",
+  "lemma": "gallery",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|piece of electronic equipment that sends or receives signals though the air and plays voice, music, or other sounds",
+  "pos": "noun",
+  "en": "piece of electronic equipment that sends or receives signals though the air and plays voice, music, or other sounds",
+  "current": "часть электронного оборудования, которая посылает или принимает сигналы через воздух и воспроизводит голос, музыку или другие звуки",
+  "level": "A1",
+  "lemma": "radio",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|something made of cloth that covers a foot and is able to go inside a shoe",
+  "pos": "noun",
+  "en": "something made of cloth that covers a foot and is able to go inside a shoe",
+  "current": "из ткани, которая покрывает ногу и может зайти внутрь обуви",
+  "level": "A2",
+  "lemma": "sock",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|a common shortening of the word maximum",
+  "pos": "noun",
+  "en": "a common shortening of the word maximum",
+  "current": "общее сокращение слова «максимум»",
+  "level": "A2",
+  "lemma": "max",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "adjective|if something is still, it is not moving and resting in one place",
+  "pos": "adjective",
+  "en": "if something is still, it is not moving and resting in one place",
+  "current": "если что-то неподвижно, то оно не движется и не отдыхает в одном месте",
+  "level": "A1",
+  "lemma": "still",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|a person who is of the legal age of majority",
+  "pos": "noun",
+  "en": "a person who is of the legal age of majority",
+  "current": "лицо, достигшее совершеннолетия по закону",
+  "level": "A2",
+  "lemma": "adult",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|a round thing on a cart or carriage or train or other machine that moves; a cart has four wheels that touch the road and turn",
+  "pos": "noun",
+  "en": "a round thing on a cart or carriage or train or other machine that moves; a cart has four wheels that touch the road and turn",
+  "current": "круглая вещь на телеге или вагоне, поезде или другой движущейся машине; тележка имеет четыре колеса, которые касаются дороги и поворачиваются",
+  "level": "A1",
+  "lemma": "wheel",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|a measure of time, equal to 60 minutes",
+  "pos": "noun",
+  "en": "a measure of time, equal to 60 minutes",
+  "current": "мера времени, равная 60 минутам",
+  "level": "A1",
+  "lemma": "hour",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "adjective|if you are surprised, something that you didn't expect happened",
+  "pos": "adjective",
+  "en": "if you are surprised, something that you didn't expect happened",
+  "current": "если вы удивлены, что-то, чего вы не ожидали, произошло",
+  "level": "A2",
+  "lemma": "surprised",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|a person whose job is telling jokes or trying to be funny",
+  "pos": "noun",
+  "en": "a person whose job is telling jokes or trying to be funny",
+  "current": "человек, чья работа состоит в том, чтобы рассказывать анекдоты или пытаться быть смешным",
+  "level": "A2",
+  "lemma": "comic",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "adjective|one of the two directions, the opposite of right; this arrow is pointing left: ←",
+  "pos": "adjective",
+  "en": "one of the two directions, the opposite of right; this arrow is pointing left: ←",
+  "current": "одно из двух направлений, противоположное правому; эта стрелка указывает влево: ←",
+  "level": "A1",
+  "lemma": "left",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "adjective|marked by extreme lack of restraint or control",
+  "pos": "adjective",
+  "en": "marked by extreme lack of restraint or control",
+  "current": "характеризуется крайним отсутствием сдержанности или контроля",
+  "level": "A2",
+  "lemma": "wild",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "adjective|if something is unhealthy, it is harmful to one’s health",
+  "pos": "adjective",
+  "en": "if something is unhealthy, it is harmful to one’s health",
+  "current": "если что-то нездоровое, то это вредно для здоровья",
+  "level": "A2",
+  "lemma": "unhealthy",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "verb|when you say that a thing costs, you say that one must pay in order to buy it",
+  "pos": "verb",
+  "en": "when you say that a thing costs, you say that one must pay in order to buy it",
+  "current": "когда вы говорите, что вещь стоит, вы говорите, что нужно заплатить, чтобы купить ее",
+  "level": "A2",
+  "lemma": "cost",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|a plant, similar to the onion, often used in cooking",
+  "pos": "noun",
+  "en": "a plant, similar to the onion, often used in cooking",
+  "current": "растение, похожее на лук, часто используемое в кулинарии",
+  "level": "A2",
+  "lemma": "garlic",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "adjective|if something is beautiful, it is very good to look at it",
+  "pos": "adjective",
+  "en": "if something is beautiful, it is very good to look at it",
+  "current": "если что-то красивое, то смотреть на это очень хорошо",
+  "level": "A1",
+  "lemma": "beautiful",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "verb|if you beg someone for something or to do something, you ask them very strongly, but you are in a weak position",
+  "pos": "verb",
+  "en": "if you beg someone for something or to do something, you ask them very strongly, but you are in a weak position",
+  "current": "если вы просите кого-то о чем-то или делаете что-то, вы просите их очень сильно, но вы находитесь в слабом положении",
+  "level": "A2",
+  "lemma": "beg",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "adjective|when a food is delicious, it is tasty or tastes very nice",
+  "pos": "adjective",
+  "en": "when a food is delicious, it is tasty or tastes very nice",
+  "current": "когда еда вкусная, она вкусная или очень вкусная",
+  "level": "A1",
+  "lemma": "delicious",
+  "kind": "definition",
+  "flags": [
+   "stem_repeat"
+  ],
+  "group": "random"
+ },
+ {
+  "key": "noun|a sweet food dish usually served at the end of a meal",
+  "pos": "noun",
+  "en": "a sweet food dish usually served at the end of a meal",
+  "current": "сладкие блюда обычно подаются в конце еды",
+  "level": "A2",
+  "lemma": "dessert",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|the action of using heat to prepare food",
+  "pos": "noun",
+  "en": "the action of using heat to prepare food",
+  "current": "действие использования тепла для приготовления пищи",
+  "level": "A2",
+  "lemma": "cooking",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|the quality of being respected by other people",
+  "pos": "noun",
+  "en": "the quality of being respected by other people",
+  "current": "качество быть уважаемым другими людьми",
+  "level": "A2",
+  "lemma": "honor",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|history is what happened in the past",
+  "pos": "noun",
+  "en": "history is what happened in the past",
+  "current": "история — это то, что происходило в прошлом",
+  "level": "A1",
+  "lemma": "history",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|a gathering of people for fun and entertainment, usually like a party",
+  "pos": "noun",
+  "en": "a gathering of people for fun and entertainment, usually like a party",
+  "current": "собрание людей для веселья и развлечений, обычно как вечеринка",
+  "level": "A1",
+  "lemma": "celebration",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|the direction towards the top of the Earth, opposite to south; If you are looking north, the sun sets on your left",
+  "pos": "noun",
+  "en": "the direction towards the top of the Earth, opposite to south; If you are looking north, the sun sets on your left",
+  "current": "направление к вершине Земли, противоположное югу; если вы смотрите на север, солнце садится слева",
+  "level": "A2",
+  "lemma": "north",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|the population of a place is the people or animals that live there",
+  "pos": "noun",
+  "en": "the population of a place is the people or animals that live there",
+  "current": "население того или иного места — это люди или животные, которые там живут",
+  "level": "A2",
+  "lemma": "population",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|time is what we measure with a clock",
+  "pos": "noun",
+  "en": "time is what we measure with a clock",
+  "current": "время — это то, что мы измеряем часами",
+  "level": "A1",
+  "lemma": "time",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|the tip of something is the farthest point of it",
+  "pos": "noun",
+  "en": "the tip of something is the farthest point of it",
+  "current": "кончик чего-то — самая дальняя его точка",
+  "level": "A2",
+  "lemma": "tip",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "adjective|smooth feels pleasant and flat when you touch it; not rough",
+  "pos": "adjective",
+  "en": "smooth feels pleasant and flat when you touch it; not rough",
+  "current": "гладкий чувствует себя приятным и плоским, когда вы прикасаетесь к нему; не грубый",
+  "level": "A2",
+  "lemma": "smooth",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|things that happen or are done, usually that are important enough to be in the news",
+  "pos": "noun",
+  "en": "things that happen or are done, usually that are important enough to be in the news",
+  "current": "вещи, которые происходят или делаются, как правило, достаточно важные, чтобы быть в новостях",
+  "level": "A2",
+  "lemma": "affair",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|a woman who has given birth to a child",
+  "pos": "noun",
+  "en": "a woman who has given birth to a child",
+  "current": "женщина, родившая ребенка",
+  "level": "A1",
+  "lemma": "mother",
+  "kind": "definition",
+  "flags": [
+   "short"
+  ],
+  "group": "random"
+ },
+ {
+  "key": "noun|a man-made object with moving parts",
+  "pos": "noun",
+  "en": "a man-made object with moving parts",
+  "current": "рукотворный объект с движущимися частями",
+  "level": "A1",
+  "lemma": "machine",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|something that keeps something up",
+  "pos": "noun",
+  "en": "something that keeps something up",
+  "current": "держит что-то в тонусе",
+  "level": "A2",
+  "lemma": "support",
+  "kind": "definition",
+  "flags": [
+   "short"
+  ],
+  "group": "random"
+ },
+ {
+  "key": "verb|if you call someone, you contact them using a telephone",
+  "pos": "verb",
+  "en": "if you call someone, you contact them using a telephone",
+  "current": "если вы кому-то звоните, вы связываетесь с ними по телефону",
+  "level": "A2",
+  "lemma": "call",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|a statistic describing the location of a distribution",
+  "pos": "noun",
+  "en": "a statistic describing the location of a distribution",
+  "current": "статистика, описывающая местоположение дистрибутива",
+  "level": "A2",
+  "lemma": "average",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "verb|if you miss something, you don't hit it",
+  "pos": "verb",
+  "en": "if you miss something, you don't hit it",
+  "current": "если вы что-то упускаете, вы не попадаете в него",
+  "level": "A1",
+  "lemma": "miss",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|when two or more people are discussing an idea that they do not agree on, they are having an argument; often arguments are loud or angry",
+  "pos": "noun",
+  "en": "when two or more people are discussing an idea that they do not agree on, they are having an argument; often arguments are loud or angry",
+  "current": "когда два или более человек обсуждают идею, с которой они не согласны, у них возникает спор; часто аргументы громкие или злые",
+  "level": "A2",
+  "lemma": "argument",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|a part of something that can be or has been separated from it",
+  "pos": "noun",
+  "en": "a part of something that can be or has been separated from it",
+  "current": "часть чего-то, что может быть или было отделено от него",
+  "level": "A1",
+  "lemma": "piece",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|searching for or buying goods or services",
+  "pos": "noun",
+  "en": "searching for or buying goods or services",
+  "current": "поиск или покупка товаров или услуг",
+  "level": "A1",
+  "lemma": "shopping",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|a little part of a foot, like a finger; a foot has 5 toes",
+  "pos": "noun",
+  "en": "a little part of a foot, like a finger; a foot has 5 toes",
+  "current": "маленькая часть стопы, как палец; нога имеет 5 пальцев",
+  "level": "A2",
+  "lemma": "toe",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|a sandwich made from meat in small pieces that are fried together",
+  "pos": "noun",
+  "en": "a sandwich made from meat in small pieces that are fried together",
+  "current": "сэндвич, сделанный из мяса небольшими кусочками, которые обжаривают вместе",
+  "level": "A1",
+  "lemma": "hamburger",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|something that you can play with",
+  "pos": "noun",
+  "en": "something that you can play with",
+  "current": "то, с чем можно играть",
+  "level": "A1",
+  "lemma": "toy",
+  "kind": "definition",
+  "flags": [
+   "short"
+  ],
+  "group": "random"
+ },
+ {
+  "key": "noun|information that you know",
+  "pos": "noun",
+  "en": "information that you know",
+  "current": "информация, которую вы знаете",
+  "level": "A2",
+  "lemma": "knowledge",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "verb|to produce a copy of a text or image on a surface, especially by machine",
+  "pos": "verb",
+  "en": "to produce a copy of a text or image on a surface, especially by machine",
+  "current": "для создания копии текста или изображения на поверхности, особенно с помощью машины",
+  "level": "A2",
+  "lemma": "print",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "verb|someone is reading when they are looking at a book or other writing and understanding what it says",
+  "pos": "verb",
+  "en": "someone is reading when they are looking at a book or other writing and understanding what it says",
+  "current": "читает, глядя на книгу или другое произведение и понимая, что в нем говорится",
+  "level": "A1",
+  "lemma": "read",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|a piece of land or space",
+  "pos": "noun",
+  "en": "a piece of land or space",
+  "current": "кусок земли или пространства",
+  "level": "A2",
+  "lemma": "area",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "adjective|if someone or something is ugly, it's not nice to look at",
+  "pos": "adjective",
+  "en": "if someone or something is ugly, it's not nice to look at",
+  "current": "если кто-то или что-то уродливо, смотреть на это нехорошо",
+  "level": "A1",
+  "lemma": "ugly",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|the act of helping",
+  "pos": "noun",
+  "en": "the act of helping",
+  "current": "акт оказания помощи",
+  "level": "A2",
+  "lemma": "help",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|something that can happen",
+  "pos": "noun",
+  "en": "something that can happen",
+  "current": "такое может случиться",
+  "level": "A2",
+  "lemma": "chance",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|someone that has won a competition, or often wins",
+  "pos": "noun",
+  "en": "someone that has won a competition, or often wins",
+  "current": "тот, кто выиграл соревнование или часто побеждает",
+  "level": "A2",
+  "lemma": "winner",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|a piece of jewelry worn on the ear",
+  "pos": "noun",
+  "en": "a piece of jewelry worn on the ear",
+  "current": "ювелирное украшение, надетое на ухо",
+  "level": "A2",
+  "lemma": "earring",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|the skillful use of knowledge and insight to make a good decision",
+  "pos": "noun",
+  "en": "the skillful use of knowledge and insight to make a good decision",
+  "current": "умелое использование знаний и проницательности для принятия правильного решения",
+  "level": "A2",
+  "lemma": "wisdom",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "verb|if you remember something that you did or knew before, you can think of it again",
+  "pos": "verb",
+  "en": "if you remember something that you did or knew before, you can think of it again",
+  "current": "если вы помните что-то, что вы делали или знали раньше, вы можете подумать об этом снова",
+  "level": "A1",
+  "lemma": "remember",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|an organized event that contains a number of performances and usually happens every year",
+  "pos": "noun",
+  "en": "an organized event that contains a number of performances and usually happens every year",
+  "current": "организованное мероприятие, которое включает в себя ряд представлений и обычно происходит каждый год",
+  "level": "A1",
+  "lemma": "festival",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "verb|when you throw an object, you make it fly through the air using your hands",
+  "pos": "verb",
+  "en": "when you throw an object, you make it fly through the air using your hands",
+  "current": "когда вы бросаете какой-либо предмет, вы заставляете его летать в воздухе своими руками",
+  "level": "A2",
+  "lemma": "throw",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "verb|if you write a book, an article, a computer program, a piece of music, etc., you create it",
+  "pos": "verb",
+  "en": "if you write a book, an article, a computer program, a piece of music, etc., you create it",
+  "current": "если вы пишете книгу, статью, компьютерную программу, музыкальное произведение и т.д., вы создаете ее",
+  "level": "A1",
+  "lemma": "write",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|hole that holds water; usually, it is for people to swim in",
+  "pos": "noun",
+  "en": "hole that holds water; usually, it is for people to swim in",
+  "current": "отверстие, в котором держится вода; обычно это для людей, чтобы искупаться в",
+  "level": "A1",
+  "lemma": "pool",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|a piece of clothing worn around a person's waist",
+  "pos": "noun",
+  "en": "a piece of clothing worn around a person's waist",
+  "current": "кусок одежды, надетый на талию человека",
+  "level": "A2",
+  "lemma": "belt",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|a computer program",
+  "pos": "noun",
+  "en": "a computer program",
+  "current": "компьютерная программа",
+  "level": "A2",
+  "lemma": "software",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|a small, wingless insect that lives on animals and sometimes humans, feeding on blood",
+  "pos": "noun",
+  "en": "a small, wingless insect that lives on animals and sometimes humans, feeding on blood",
+  "current": "маленькое, бескрылое насекомое, живущее на животных, а иногда и на людях, питающееся кровью",
+  "level": "A2",
+  "lemma": "flea",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|you advance to the next round in a tournament without playing an opponent",
+  "pos": "noun",
+  "en": "you advance to the next round in a tournament without playing an opponent",
+  "current": "вы выходите в следующий раунд турнира, не играя с соперником",
+  "level": "A1",
+  "lemma": "bye",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "adverb|beyond or across the sea",
+  "pos": "adverb",
+  "en": "beyond or across the sea",
+  "current": "за пределами или через море",
+  "level": "A2",
+  "lemma": "overseas",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|a style, often clothing, that is popular at a particular time and place",
+  "pos": "noun",
+  "en": "a style, often clothing, that is popular at a particular time and place",
+  "current": "стиль, часто одежда, которая популярна в определенное время и месте",
+  "level": "A2",
+  "lemma": "fashion",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|a cold drink made of lemons, water, and a lot of sugar",
+  "pos": "noun",
+  "en": "a cold drink made of lemons, water, and a lot of sugar",
+  "current": "холодный напиток из лимонов, воды и большого количества сахара",
+  "level": "A2",
+  "lemma": "lemonade",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|a contest to decide which person or team is best at the sport",
+  "pos": "noun",
+  "en": "a contest to decide which person or team is best at the sport",
+  "current": "соревнование, чтобы решить, какой человек или команда лучше в спорте",
+  "level": "A2",
+  "lemma": "championship",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|the branch of engineering that deals with the use of computers and telecommunications to retrieve and store and transmit information",
+  "pos": "noun",
+  "en": "the branch of engineering that deals with the use of computers and telecommunications to retrieve and store and transmit information",
+  "current": "отрасль техники, которая занимается использованием компьютеров и телекоммуникаций для извлечения, хранения и передачи информации",
+  "level": "A2",
+  "lemma": "IT",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|a cloud that is close to or on the ground and sometimes prevents a person from being able to see",
+  "pos": "noun",
+  "en": "a cloud that is close to or on the ground and sometimes prevents a person from being able to see",
+  "current": "облако, которое находится близко или на земле и иногда мешает человеку видеть",
+  "level": "A2",
+  "lemma": "fog",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|someone who is paid to solve technical problems, or to help invent things",
+  "pos": "noun",
+  "en": "someone who is paid to solve technical problems, or to help invent things",
+  "current": "кому платят за решение технических проблем или за помощь в изобретении вещей",
+  "level": "A1",
+  "lemma": "engineer",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|an object that is used to hold or carry things inside it",
+  "pos": "noun",
+  "en": "an object that is used to hold or carry things inside it",
+  "current": "предмет, который используется для удержания или переноса вещей внутри него",
+  "level": "A2",
+  "lemma": "container",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|the male leader of a country and whose son will probably lead the country",
+  "pos": "noun",
+  "en": "the male leader of a country and whose son will probably lead the country",
+  "current": "мужчина-лидер страны, чей сын, вероятно, будет руководить страной",
+  "level": "A1",
+  "lemma": "king",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|a way of living",
+  "pos": "noun",
+  "en": "a way of living",
+  "current": "образ жизни",
+  "level": "A2",
+  "lemma": "lifestyle",
+  "kind": "definition",
+  "flags": [
+   "short"
+  ],
+  "group": "random"
+ },
+ {
+  "key": "noun|an answer to a problem",
+  "pos": "noun",
+  "en": "an answer to a problem",
+  "current": "ответ на проблему",
+  "level": "A2",
+  "lemma": "solution",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|the shape or structure of a person or a thing",
+  "pos": "noun",
+  "en": "the shape or structure of a person or a thing",
+  "current": "форма или структура человека или вещи",
+  "level": "A1",
+  "lemma": "form",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|a change is when something becomes different",
+  "pos": "noun",
+  "en": "a change is when something becomes different",
+  "current": "изменение — это когда что-то становится другим",
+  "level": "A1",
+  "lemma": "change",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|a device that produces electricity",
+  "pos": "noun",
+  "en": "a device that produces electricity",
+  "current": "устройство, которое производит электричество",
+  "level": "A2",
+  "lemma": "battery",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "verb|if you hear a sound, you notice it with your ear",
+  "pos": "verb",
+  "en": "if you hear a sound, you notice it with your ear",
+  "current": "если вы слышите звук, вы замечаете его своим ухом",
+  "level": "A1",
+  "lemma": "hear",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|a part of the head used for hearing",
+  "pos": "noun",
+  "en": "a part of the head used for hearing",
+  "current": "часть головы, используемая для слуха",
+  "level": "A1",
+  "lemma": "ear",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|the act of grasping",
+  "pos": "noun",
+  "en": "the act of grasping",
+  "current": "акт шпионажа",
+  "level": "A1",
+  "lemma": "hold",
+  "kind": "definition",
+  "flags": [
+   "short"
+  ],
+  "group": "random"
+ },
+ {
+  "key": "verb|if something succeeds, it has happened the way somebody wants it to happen",
+  "pos": "verb",
+  "en": "if something succeeds, it has happened the way somebody wants it to happen",
+  "current": "если что-то удается, это происходит так, как кто-то хочет, чтобы это произошло",
+  "level": "A2",
+  "lemma": "succeed",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "adjective|no longer active in your work or profession",
+  "pos": "adjective",
+  "en": "no longer active in your work or profession",
+  "current": "больше не проявляйте активности в своей работе или профессиональной деятельности",
+  "level": "A2",
+  "lemma": "retired",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "noun|a being refers to a living thing",
+  "pos": "noun",
+  "en": "a being refers to a living thing",
+  "current": "бытие относится к живому существу",
+  "level": "A2",
+  "lemma": "being",
+  "kind": "definition",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|He was wholly convinced.",
+  "pos": "example",
+  "en": "He was wholly convinced.",
+  "current": "Он был полностью убежден.",
+  "level": "A2",
+  "lemma": "all",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|The fairy god mother used magic to turn mice into horses.",
+  "pos": "example",
+  "en": "The fairy god mother used magic to turn mice into horses.",
+  "current": "Мать-фея использовала магию, чтобы превратить мышей в лошадей.",
+  "level": "A2",
+  "lemma": "magic",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|We bought the new dining room table on credit.",
+  "pos": "example",
+  "en": "We bought the new dining room table on credit.",
+  "current": "Мы купили новый обеденный стол в кредит.",
+  "level": "A2",
+  "lemma": "credit",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|Through the window glass I could see the trees bend in the wind, but I was warm indoors.",
+  "pos": "example",
+  "en": "Through the window glass I could see the trees bend in the wind, but I was warm indoors.",
+  "current": "Через оконное стекло я мог видеть, как деревья изгибаются под ветром, но в помещении было тепло.",
+  "level": "A1",
+  "lemma": "glass",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|No not that road. Just keep driving straight.",
+  "pos": "example",
+  "en": "No not that road. Just keep driving straight.",
+  "current": "Нет, это не та дорога. Просто продолжайте ехать прямо.",
+  "level": "A1",
+  "lemma": "straight",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|The band motivated her to pursue a career in music.",
+  "pos": "example",
+  "en": "The band motivated her to pursue a career in music.",
+  "current": "Группа мотивировала ее продолжить карьеру в музыке.",
+  "level": "A2",
+  "lemma": "pursue",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|The social structure of a class is often very complex.",
+  "pos": "example",
+  "en": "The social structure of a class is often very complex.",
+  "current": "Социальная структура класса часто очень сложна.",
+  "level": "A2",
+  "lemma": "structure",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|I'm throwing a huge party for my 21st birthday. There'll be cake, games, and lots of fun!",
+  "pos": "example",
+  "en": "I'm throwing a huge party for my 21st birthday. There'll be cake, games, and lots of fun!",
+  "current": "Я устраиваю огромную вечеринку на свой 21-й день рождения. Там будет торт, игры и много веселья!",
+  "level": "A1",
+  "lemma": "party",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|The new book arrived in the mail.",
+  "pos": "example",
+  "en": "The new book arrived in the mail.",
+  "current": "Новая книга поступила на почту.",
+  "level": "A1",
+  "lemma": "mail",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|If I say, \"one cat\", that's singular, but if I say, \"a lot of cats\", that's plural.",
+  "pos": "example",
+  "en": "If I say, \"one cat\", that's singular, but if I say, \"a lot of cats\", that's plural.",
+  "current": "Если я говорю \"одна кошка\", это единственное, но если я говорю \"много кошек\", это множественное число.",
+  "level": "A2",
+  "lemma": "singular",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|You've ruined my painting!",
+  "pos": "example",
+  "en": "You've ruined my painting!",
+  "current": "Ты испортил мою картину!",
+  "level": "A2",
+  "lemma": "ruin",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|You are a human being.",
+  "pos": "example",
+  "en": "You are a human being.",
+  "current": "Вы - человек.",
+  "level": "A2",
+  "lemma": "being",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "random"
+ },
+ {
+  "key": "example|I ran out of the house and fell on the ground.",
+  "pos": "example",
+  "en": "I ran out of the house and fell on the ground.",
+  "current": "Я выбежал из дома и упал на землю.",
+  "level": "A1",
+  "lemma": "ground",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "random"
+ },
+ {
+  "key": "example|What grade are you in at school?",
+  "pos": "example",
+  "en": "What grade are you in at school?",
+  "current": "В каком классе вы учитесь в школе?",
+  "level": "A1",
+  "lemma": "school",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|My favorite shampoo was on sale for half price at the store, so I bought a few bottles.",
+  "pos": "example",
+  "en": "My favorite shampoo was on sale for half price at the store, so I bought a few bottles.",
+  "current": "Мой любимый шампунь продавался в магазине за полцены, поэтому я купил несколько бутылок.",
+  "level": "A2",
+  "lemma": "shampoo",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|A square peg in a round hole.",
+  "pos": "example",
+  "en": "A square peg in a round hole.",
+  "current": "Квадратный колышек в круглом отверстии.",
+  "level": "A2",
+  "lemma": "square",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|It was replaced because of its age.",
+  "pos": "example",
+  "en": "It was replaced because of its age.",
+  "current": "Его заменили из-за возраста.",
+  "level": "A1",
+  "lemma": "age",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|Let's go to the gallery to check out the new paintings.",
+  "pos": "example",
+  "en": "Let's go to the gallery to check out the new paintings.",
+  "current": "Пойдем в галерею, посмотрим новые картины.",
+  "level": "A2",
+  "lemma": "gallery",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|The importance of a well-balanced diet.",
+  "pos": "example",
+  "en": "The importance of a well-balanced diet.",
+  "current": "Важность сбалансированной диеты.",
+  "level": "A2",
+  "lemma": "importance",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|Alan Eastwood is the former chairman of the Police Federation.",
+  "pos": "example",
+  "en": "Alan Eastwood is the former chairman of the Police Federation.",
+  "current": "Алан Иствуд — бывший председатель Федерации полиции.",
+  "level": "A2",
+  "lemma": "chairman",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|I am his son.",
+  "pos": "example",
+  "en": "I am his son.",
+  "current": "Я его сын.",
+  "level": "A1",
+  "lemma": "son",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|Careful of her feelings.",
+  "pos": "example",
+  "en": "Careful of her feelings.",
+  "current": "Осторожнее с ее чувствами.",
+  "level": "A1",
+  "lemma": "careful",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|Can we hurry? I have to catch a plane to Miami.",
+  "pos": "example",
+  "en": "Can we hurry? I have to catch a plane to Miami.",
+  "current": "Можем ли мы спешить? Приходится сесть на самолет до Майами.",
+  "level": "A1",
+  "lemma": "plane",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|I like good food.",
+  "pos": "example",
+  "en": "I like good food.",
+  "current": "Мне нравится хорошая еда.",
+  "level": "A1",
+  "lemma": "like",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|He remained at home.",
+  "pos": "example",
+  "en": "He remained at home.",
+  "current": "Он остался дома.",
+  "level": "A2",
+  "lemma": "remain",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|In this song, every word is on a different note.",
+  "pos": "example",
+  "en": "In this song, every word is on a different note.",
+  "current": "В этой песне каждое слово на другой ноте.",
+  "level": "A1",
+  "lemma": "note",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|A right-hand turn.",
+  "pos": "example",
+  "en": "A right-hand turn.",
+  "current": "Поворот вправо.",
+  "level": "A2",
+  "lemma": "right-hand",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|They dug a hole in the ground for the tree.",
+  "pos": "example",
+  "en": "They dug a hole in the ground for the tree.",
+  "current": "Они вырыли яму в земле для дерева.",
+  "level": "A1",
+  "lemma": "hole",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|China has many old books about its history.",
+  "pos": "example",
+  "en": "China has many old books about its history.",
+  "current": "Китай имеет много старых книг о своей истории.",
+  "level": "A1",
+  "lemma": "history",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|The law came looking for him.",
+  "pos": "example",
+  "en": "The law came looking for him.",
+  "current": "Закон его искал.",
+  "level": "A2",
+  "lemma": "police",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "random"
+ },
+ {
+  "key": "example|Beginning to feel sleepy.",
+  "pos": "example",
+  "en": "Beginning to feel sleepy.",
+  "current": "Начинаю чувствовать сонливость.",
+  "level": "A2",
+  "lemma": "sleepy",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|Many people have an image of God as an old man.",
+  "pos": "example",
+  "en": "Many people have an image of God as an old man.",
+  "current": "У многих людей есть представление о Боге как о старике.",
+  "level": "A2",
+  "lemma": "image",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|Her heart stopped, but her brain continued to function.",
+  "pos": "example",
+  "en": "Her heart stopped, but her brain continued to function.",
+  "current": "Сердце остановилось, но мозг продолжал функционировать.",
+  "level": "A2",
+  "lemma": "function",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|It was designed to be uniform from one end to the other.",
+  "pos": "example",
+  "en": "It was designed to be uniform from one end to the other.",
+  "current": "Он был разработан, чтобы быть однородным от одного конца к другому.",
+  "level": "A2",
+  "lemma": "uniform",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|Jill throws with her left hand.",
+  "pos": "example",
+  "en": "Jill throws with her left hand.",
+  "current": "Джилл дрожит левой рукой.",
+  "level": "A2",
+  "lemma": "throw",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|The person looks at his watch and has a thought that he is late.",
+  "pos": "example",
+  "en": "The person looks at his watch and has a thought that he is late.",
+  "current": "Человек смотрит на часы и думает, что опаздывает.",
+  "level": "A1",
+  "lemma": "watch",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|He took cups, plates and saucers from the kitchen cupboards and stacked them on the table.",
+  "pos": "example",
+  "en": "He took cups, plates and saucers from the kitchen cupboards and stacked them on the table.",
+  "current": "Он брал чашки, тарелки и блюдца из кухонных шкафов и складывал их на стол.",
+  "level": "A2",
+  "lemma": "cupboard",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|Many people have strong feelings about the war.",
+  "pos": "example",
+  "en": "Many people have strong feelings about the war.",
+  "current": "Многие люди испытывают сильные чувства по поводу войны.",
+  "level": "A1",
+  "lemma": "feeling",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|I will take time to consider what you said.",
+  "pos": "example",
+  "en": "I will take time to consider what you said.",
+  "current": "Я найду время, чтобы рассмотреть то, что вы сказали.",
+  "level": "A2",
+  "lemma": "consider",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|They started the race in first place.",
+  "pos": "example",
+  "en": "They started the race in first place.",
+  "current": "Они начали гонку на первом месте.",
+  "level": "A1",
+  "lemma": "start",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|I'll get some cheese from the fridge.",
+  "pos": "example",
+  "en": "I'll get some cheese from the fridge.",
+  "current": "Я возьму сыр из холодильника.",
+  "level": "A2",
+  "lemma": "fridge",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|He can't write. He's a terrible writer.",
+  "pos": "example",
+  "en": "He can't write. He's a terrible writer.",
+  "current": "Он не умеет писать. Он ужасный писатель.",
+  "level": "A1",
+  "lemma": "write",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|I'm glad to hear you're feeling better.",
+  "pos": "example",
+  "en": "I'm glad to hear you're feeling better.",
+  "current": "Я рад слышать, что ты чувствуешь себя лучше.",
+  "level": "A1",
+  "lemma": "glad",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|An ace reporter.",
+  "pos": "example",
+  "en": "An ace reporter.",
+  "current": "Туз-репортер.",
+  "level": "A1",
+  "lemma": "super",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|John F. Kennedy was shot by a gun.",
+  "pos": "example",
+  "en": "John F. Kennedy was shot by a gun.",
+  "current": "Джон Ф. Кеннеди был застрелен из пистолета.",
+  "level": "A2",
+  "lemma": "gun",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|John is a playful fellow.",
+  "pos": "example",
+  "en": "John is a playful fellow.",
+  "current": "Джон - веселый парень.",
+  "level": "A2",
+  "lemma": "playful",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|The lawyer represented the man in court.",
+  "pos": "example",
+  "en": "The lawyer represented the man in court.",
+  "current": "Адвокат представлял мужчину в суде.",
+  "level": "A2",
+  "lemma": "lawyer",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ },
+ {
+  "key": "example|Two sisters and their brother played in the park yesterday.",
+  "pos": "example",
+  "en": "Two sisters and their brother played in the park yesterday.",
+  "current": "Две сестры и их брат вчера играли в парке.",
+  "level": "A1",
+  "lemma": "brother",
+  "kind": "example",
+  "flags": [
+   "short"
+  ],
+  "group": "random"
+ },
+ {
+  "key": "example|My five brothers, two sisters and seven cousins all live together under one roof.",
+  "pos": "example",
+  "en": "My five brothers, two sisters and seven cousins all live together under one roof.",
+  "current": "Мои пять братьев, две сестры и семь двоюродных братьев живут вместе под одной крышей.",
+  "level": "A2",
+  "lemma": "roof",
+  "kind": "example",
+  "flags": [
+   "stem_repeat"
+  ],
+  "group": "random"
+ },
+ {
+  "key": "example|It is not good to have suppers too often. It is very unhealthy.",
+  "pos": "example",
+  "en": "It is not good to have suppers too often. It is very unhealthy.",
+  "current": "Нехорошо слишком часто ужинать. Это очень вредно для здоровья.",
+  "level": "A2",
+  "lemma": "supper",
+  "kind": "example",
+  "flags": [],
+  "group": "random"
+ }
+]

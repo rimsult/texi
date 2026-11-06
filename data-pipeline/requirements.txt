@@ -1,0 +1,4 @@
+nltk>=3.9
+pytest>=8
+wordfreq>=3.1
+lemminflect>=0.2.3

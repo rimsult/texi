@@ -1,0 +1,746 @@
+{
+  "schemaVersion": 2,
+  "version": "809d9d3d7f0e",
+  "decks": [
+    {
+      "id": "general",
+      "title": "Общая лексика",
+      "description": "Слова CEFR-J и Octanove (A1–C2) и частотная лексика WordNet для B2–C2",
+      "levels": [
+        {
+          "level": "A1",
+          "file": "A1.json",
+          "words": 969,
+          "bytes": 1393806,
+          "hash": "63b8d6320874",
+          "questions": {
+            "word-to-definition:ru": 964,
+            "definition-to-word:ru": 964,
+            "word-to-definition:en": 969,
+            "definition-to-word:en": 969,
+            "gap-fill:en": 700
+          },
+          "hard": {
+            "word-to-definition:ru": 773,
+            "definition-to-word:ru": 773,
+            "word-to-definition:en": 775,
+            "definition-to-word:en": 775
+          }
+        },
+        {
+          "level": "A2",
+          "file": "A2.json",
+          "words": 1297,
+          "bytes": 1898977,
+          "hash": "dd05bbc8dee7",
+          "questions": {
+            "gap-fill:en": 854,
+            "word-to-definition:ru": 1288,
+            "definition-to-word:ru": 1288,
+            "word-to-definition:en": 1297,
+            "definition-to-word:en": 1297
+          },
+          "hard": {
+            "word-to-definition:ru": 977,
+            "definition-to-word:ru": 977,
+            "word-to-definition:en": 983,
+            "definition-to-word:en": 983
+          }
+        },
+        {
+          "level": "B1",
+          "file": "B1.json",
+          "words": 2343,
+          "bytes": 2254192,
+          "hash": "c7110934128c",
+          "questions": {
+            "gap-fill:en": 1497,
+            "word-to-definition:en": 2343,
+            "definition-to-word:en": 2343
+          },
+          "hard": {
+            "word-to-definition:en": 1797,
+            "definition-to-word:en": 1797
+          }
+        },
+        {
+          "level": "B2",
+          "file": "B2.json",
+          "words": 3689,
+          "bytes": 2849299,
+          "hash": "084d70acd4a5",
+          "questions": {
+            "gap-fill:en": 1732,
+            "word-to-definition:en": 3689,
+            "definition-to-word:en": 3689
+          },
+          "hard": {
+            "word-to-definition:en": 2846,
+            "definition-to-word:en": 2846
+          }
+        },
+        {
+          "level": "C1",
+          "file": "C1.json",
+          "words": 2313,
+          "bytes": 1647232,
+          "hash": "12f760397cc4",
+          "questions": {
+            "word-to-definition:en": 2313,
+            "definition-to-word:en": 2313,
+            "gap-fill:en": 582
+          },
+          "hard": {
+            "word-to-definition:en": 1641,
+            "definition-to-word:en": 1641
+          }
+        },
+        {
+          "level": "C2",
+          "file": "C2.json",
+          "words": 1338,
+          "bytes": 962365,
+          "hash": "2d5e58210ebb",
+          "questions": {
+            "word-to-definition:en": 1338,
+            "definition-to-word:en": 1338,
+            "gap-fill:en": 331
+          },
+          "hard": {
+            "word-to-definition:en": 917,
+            "definition-to-word:en": 917
+          }
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Техническая лексика",
+      "description": "ИТ, электротехника, физика, математика, химия и инженерия — для технических вузов",
+      "levels": [
+        {
+          "level": "A1",
+          "file": "tech-A1.json",
+          "words": 21,
+          "bytes": 32576,
+          "hash": "d2ad9fec8046",
+          "questions": {
+            "word-to-definition:ru": 21,
+            "definition-to-word:ru": 21,
+            "word-to-definition:en": 21,
+            "definition-to-word:en": 21,
+            "gap-fill:en": 5
+          },
+          "hard": {
+            "word-to-definition:ru": 18,
+            "definition-to-word:ru": 18,
+            "word-to-definition:en": 18,
+            "definition-to-word:en": 18
+          },
+          "fields": {
+            "chemistry": {
+              "questions": {
+                "word-to-definition:ru": 1,
+                "definition-to-word:ru": 1,
+                "word-to-definition:en": 1,
+                "definition-to-word:en": 1
+              },
+              "hard": {
+                "word-to-definition:ru": 1,
+                "definition-to-word:ru": 1,
+                "word-to-definition:en": 1,
+                "definition-to-word:en": 1
+              }
+            },
+            "electrical": {
+              "questions": {
+                "gap-fill:en": 1,
+                "word-to-definition:ru": 1,
+                "definition-to-word:ru": 1,
+                "word-to-definition:en": 1,
+                "definition-to-word:en": 1
+              },
+              "hard": {
+                "word-to-definition:ru": 1,
+                "definition-to-word:ru": 1,
+                "word-to-definition:en": 1,
+                "definition-to-word:en": 1
+              }
+            },
+            "engineering": {
+              "questions": {
+                "word-to-definition:ru": 3,
+                "definition-to-word:ru": 3,
+                "word-to-definition:en": 3,
+                "definition-to-word:en": 3
+              },
+              "hard": {
+                "word-to-definition:ru": 2,
+                "definition-to-word:ru": 2,
+                "word-to-definition:en": 2,
+                "definition-to-word:en": 2
+              }
+            },
+            "it": {
+              "questions": {
+                "word-to-definition:ru": 6,
+                "definition-to-word:ru": 6,
+                "word-to-definition:en": 6,
+                "definition-to-word:en": 6,
+                "gap-fill:en": 2
+              },
+              "hard": {
+                "word-to-definition:ru": 6,
+                "definition-to-word:ru": 6,
+                "word-to-definition:en": 6,
+                "definition-to-word:en": 6
+              }
+            },
+            "math": {
+              "questions": {
+                "gap-fill:en": 1,
+                "word-to-definition:ru": 5,
+                "definition-to-word:ru": 5,
+                "word-to-definition:en": 5,
+                "definition-to-word:en": 5
+              },
+              "hard": {
+                "word-to-definition:ru": 4,
+                "definition-to-word:ru": 4,
+                "word-to-definition:en": 4,
+                "definition-to-word:en": 4
+              }
+            },
+            "physics": {
+              "questions": {
+                "word-to-definition:ru": 5,
+                "definition-to-word:ru": 5,
+                "word-to-definition:en": 5,
+                "definition-to-word:en": 5,
+                "gap-fill:en": 1
+              },
+              "hard": {
+                "word-to-definition:ru": 4,
+                "definition-to-word:ru": 4,
+                "word-to-definition:en": 4,
+                "definition-to-word:en": 4
+              }
+            }
+          }
+        },
+        {
+          "level": "A2",
+          "file": "tech-A2.json",
+          "words": 45,
+          "bytes": 71398,
+          "hash": "e0e4cef50f1f",
+          "questions": {
+            "word-to-definition:ru": 44,
+            "definition-to-word:ru": 44,
+            "word-to-definition:en": 45,
+            "definition-to-word:en": 45,
+            "gap-fill:en": 21
+          },
+          "hard": {
+            "word-to-definition:ru": 36,
+            "definition-to-word:ru": 36,
+            "word-to-definition:en": 36,
+            "definition-to-word:en": 36
+          },
+          "fields": {
+            "chemistry": {
+              "questions": {
+                "word-to-definition:ru": 6,
+                "definition-to-word:ru": 6,
+                "word-to-definition:en": 7,
+                "definition-to-word:en": 7,
+                "gap-fill:en": 3
+              },
+              "hard": {
+                "word-to-definition:ru": 5,
+                "definition-to-word:ru": 5,
+                "word-to-definition:en": 6,
+                "definition-to-word:en": 6
+              }
+            },
+            "electrical": {
+              "questions": {
+                "gap-fill:en": 1,
+                "word-to-definition:ru": 1,
+                "definition-to-word:ru": 1,
+                "word-to-definition:en": 1,
+                "definition-to-word:en": 1
+              },
+              "hard": {
+                "word-to-definition:ru": 1,
+                "definition-to-word:ru": 1,
+                "word-to-definition:en": 1,
+                "definition-to-word:en": 1
+              }
+            },
+            "engineering": {
+              "questions": {
+                "word-to-definition:ru": 9,
+                "definition-to-word:ru": 9,
+                "word-to-definition:en": 9,
+                "definition-to-word:en": 9,
+                "gap-fill:en": 4
+              },
+              "hard": {
+                "word-to-definition:ru": 9,
+                "definition-to-word:ru": 9,
+                "word-to-definition:en": 9,
+                "definition-to-word:en": 9
+              }
+            },
+            "it": {
+              "questions": {
+                "gap-fill:en": 4,
+                "word-to-definition:ru": 6,
+                "definition-to-word:ru": 6,
+                "word-to-definition:en": 6,
+                "definition-to-word:en": 6
+              },
+              "hard": {
+                "word-to-definition:ru": 4,
+                "definition-to-word:ru": 4,
+                "word-to-definition:en": 4,
+                "definition-to-word:en": 4
+              }
+            },
+            "math": {
+              "questions": {
+                "word-to-definition:ru": 11,
+                "definition-to-word:ru": 11,
+                "word-to-definition:en": 11,
+                "definition-to-word:en": 11,
+                "gap-fill:en": 4
+              },
+              "hard": {
+                "word-to-definition:ru": 8,
+                "definition-to-word:ru": 8,
+                "word-to-definition:en": 7,
+                "definition-to-word:en": 7
+              }
+            },
+            "physics": {
+              "questions": {
+                "word-to-definition:ru": 11,
+                "definition-to-word:ru": 11,
+                "word-to-definition:en": 11,
+                "definition-to-word:en": 11,
+                "gap-fill:en": 5
+              },
+              "hard": {
+                "word-to-definition:ru": 9,
+                "definition-to-word:ru": 9,
+                "word-to-definition:en": 9,
+                "definition-to-word:en": 9
+              }
+            }
+          }
+        },
+        {
+          "level": "B1",
+          "file": "tech-B1.json",
+          "words": 115,
+          "bytes": 119847,
+          "hash": "1bfaacdf7669",
+          "questions": {
+            "word-to-definition:en": 115,
+            "definition-to-word:en": 115,
+            "gap-fill:en": 38
+          },
+          "hard": {
+            "word-to-definition:en": 102,
+            "definition-to-word:en": 102
+          },
+          "fields": {
+            "chemistry": {
+              "questions": {
+                "word-to-definition:en": 16,
+                "definition-to-word:en": 16,
+                "gap-fill:en": 7
+              },
+              "hard": {
+                "word-to-definition:en": 14,
+                "definition-to-word:en": 14
+              }
+            },
+            "electrical": {
+              "questions": {
+                "word-to-definition:en": 7,
+                "definition-to-word:en": 7,
+                "gap-fill:en": 2
+              },
+              "hard": {
+                "word-to-definition:en": 6,
+                "definition-to-word:en": 6
+              }
+            },
+            "engineering": {
+              "questions": {
+                "word-to-definition:en": 22,
+                "definition-to-word:en": 22,
+                "gap-fill:en": 5
+              },
+              "hard": {
+                "word-to-definition:en": 22,
+                "definition-to-word:en": 22
+              }
+            },
+            "it": {
+              "questions": {
+                "word-to-definition:en": 16,
+                "definition-to-word:en": 16,
+                "gap-fill:en": 6
+              },
+              "hard": {
+                "word-to-definition:en": 15,
+                "definition-to-word:en": 15
+              }
+            },
+            "math": {
+              "questions": {
+                "gap-fill:en": 10,
+                "word-to-definition:en": 33,
+                "definition-to-word:en": 33
+              },
+              "hard": {
+                "word-to-definition:en": 27,
+                "definition-to-word:en": 27
+              }
+            },
+            "physics": {
+              "questions": {
+                "word-to-definition:en": 21,
+                "definition-to-word:en": 21,
+                "gap-fill:en": 8
+              },
+              "hard": {
+                "word-to-definition:en": 18,
+                "definition-to-word:en": 18
+              }
+            }
+          }
+        },
+        {
+          "level": "B2",
+          "file": "tech-B2.json",
+          "words": 211,
+          "bytes": 185609,
+          "hash": "57ae9cf4d329",
+          "questions": {
+            "gap-fill:en": 65,
+            "word-to-definition:en": 211,
+            "definition-to-word:en": 211
+          },
+          "hard": {
+            "word-to-definition:en": 195,
+            "definition-to-word:en": 195
+          },
+          "fields": {
+            "chemistry": {
+              "questions": {
+                "gap-fill:en": 18,
+                "word-to-definition:en": 53,
+                "definition-to-word:en": 53
+              },
+              "hard": {
+                "word-to-definition:en": 50,
+                "definition-to-word:en": 50
+              }
+            },
+            "electrical": {
+              "questions": {
+                "gap-fill:en": 5,
+                "word-to-definition:en": 18,
+                "definition-to-word:en": 18
+              },
+              "hard": {
+                "word-to-definition:en": 18,
+                "definition-to-word:en": 18
+              }
+            },
+            "engineering": {
+              "questions": {
+                "word-to-definition:en": 28,
+                "definition-to-word:en": 28,
+                "gap-fill:en": 8
+              },
+              "hard": {
+                "word-to-definition:en": 28,
+                "definition-to-word:en": 28
+              }
+            },
+            "it": {
+              "questions": {
+                "gap-fill:en": 14,
+                "word-to-definition:en": 41,
+                "definition-to-word:en": 41
+              },
+              "hard": {
+                "word-to-definition:en": 36,
+                "definition-to-word:en": 36
+              }
+            },
+            "math": {
+              "questions": {
+                "word-to-definition:en": 37,
+                "definition-to-word:en": 37,
+                "gap-fill:en": 11
+              },
+              "hard": {
+                "word-to-definition:en": 34,
+                "definition-to-word:en": 34
+              }
+            },
+            "physics": {
+              "questions": {
+                "word-to-definition:en": 34,
+                "definition-to-word:en": 34,
+                "gap-fill:en": 9
+              },
+              "hard": {
+                "word-to-definition:en": 29,
+                "definition-to-word:en": 29
+              }
+            }
+          }
+        },
+        {
+          "level": "C1",
+          "file": "tech-C1.json",
+          "words": 211,
+          "bytes": 176336,
+          "hash": "899bd304244d",
+          "questions": {
+            "word-to-definition:en": 211,
+            "definition-to-word:en": 211,
+            "gap-fill:en": 21
+          },
+          "hard": {
+            "word-to-definition:en": 191,
+            "definition-to-word:en": 191
+          },
+          "fields": {
+            "chemistry": {
+              "questions": {
+                "word-to-definition:en": 62,
+                "definition-to-word:en": 62,
+                "gap-fill:en": 7
+              },
+              "hard": {
+                "word-to-definition:en": 56,
+                "definition-to-word:en": 56
+              }
+            },
+            "electrical": {
+              "questions": {
+                "word-to-definition:en": 13,
+                "definition-to-word:en": 13
+              },
+              "hard": {
+                "word-to-definition:en": 11,
+                "definition-to-word:en": 11
+              }
+            },
+            "engineering": {
+              "questions": {
+                "word-to-definition:en": 35,
+                "definition-to-word:en": 35,
+                "gap-fill:en": 3
+              },
+              "hard": {
+                "word-to-definition:en": 34,
+                "definition-to-word:en": 34
+              }
+            },
+            "it": {
+              "questions": {
+                "word-to-definition:en": 21,
+                "definition-to-word:en": 21,
+                "gap-fill:en": 4
+              },
+              "hard": {
+                "word-to-definition:en": 19,
+                "definition-to-word:en": 19
+              }
+            },
+            "math": {
+              "questions": {
+                "word-to-definition:en": 37,
+                "definition-to-word:en": 37,
+                "gap-fill:en": 4
+              },
+              "hard": {
+                "word-to-definition:en": 32,
+                "definition-to-word:en": 32
+              }
+            },
+            "physics": {
+              "questions": {
+                "word-to-definition:en": 43,
+                "definition-to-word:en": 43,
+                "gap-fill:en": 3
+              },
+              "hard": {
+                "word-to-definition:en": 39,
+                "definition-to-word:en": 39
+              }
+            }
+          }
+        },
+        {
+          "level": "C2",
+          "file": "tech-C2.json",
+          "words": 657,
+          "bytes": 542518,
+          "hash": "fcaecc7d49a9",
+          "questions": {
+            "word-to-definition:en": 657,
+            "definition-to-word:en": 657,
+            "gap-fill:en": 36
+          },
+          "hard": {
+            "word-to-definition:en": 620,
+            "definition-to-word:en": 620
+          },
+          "fields": {
+            "chemistry": {
+              "questions": {
+                "word-to-definition:en": 287,
+                "definition-to-word:en": 287,
+                "gap-fill:en": 11
+              },
+              "hard": {
+                "word-to-definition:en": 278,
+                "definition-to-word:en": 278
+              }
+            },
+            "electrical": {
+              "questions": {
+                "word-to-definition:en": 60,
+                "definition-to-word:en": 60,
+                "gap-fill:en": 5
+              },
+              "hard": {
+                "word-to-definition:en": 56,
+                "definition-to-word:en": 56
+              }
+            },
+            "engineering": {
+              "questions": {
+                "word-to-definition:en": 89,
+                "definition-to-word:en": 89,
+                "gap-fill:en": 3
+              },
+              "hard": {
+                "word-to-definition:en": 89,
+                "definition-to-word:en": 89
+              }
+            },
+            "it": {
+              "questions": {
+                "word-to-definition:en": 53,
+                "definition-to-word:en": 53,
+                "gap-fill:en": 3
+              },
+              "hard": {
+                "word-to-definition:en": 49,
+                "definition-to-word:en": 49
+              }
+            },
+            "math": {
+              "questions": {
+                "word-to-definition:en": 88,
+                "definition-to-word:en": 88,
+                "gap-fill:en": 9
+              },
+              "hard": {
+                "word-to-definition:en": 74,
+                "definition-to-word:en": 74
+              }
+            },
+            "physics": {
+              "questions": {
+                "word-to-definition:en": 80,
+                "definition-to-word:en": 80,
+                "gap-fill:en": 5
+              },
+              "hard": {
+                "word-to-definition:en": 74,
+                "definition-to-word:en": 74
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "fields": {
+    "it": "ИТ",
+    "electrical": "Электротехника",
+    "physics": "Физика",
+    "math": "Математика",
+    "chemistry": "Химия",
+    "engineering": "Инженерия"
+  },
+  "sources": [
+    {
+      "name": "CEFR-J Vocabulary Profile 1.5",
+      "url": "https://github.com/openlanguageprofiles/olp-en-cefrj",
+      "license": "Free for research and commercial use with attribution (Tono Laboratory, TUFS)"
+    },
+    {
+      "name": "Octanove Vocabulary Profile C1/C2 1.0",
+      "url": "https://github.com/openlanguageprofiles/olp-en-cefrj",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "Princeton WordNet 3.0 (via NLTK)",
+      "url": "https://wordnet.princeton.edu/",
+      "license": "WordNet License"
+    },
+    {
+      "name": "Simple English Wiktionary (via kaikki.org / wiktextract) — learner definitions and examples",
+      "url": "https://simple.wiktionary.org/",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "Wiktionary via WikDict en-ru",
+      "url": "https://www.wikdict.com/",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "name": "FrequencyWords ru (OpenSubtitles 2018)",
+      "url": "https://github.com/hermitdave/FrequencyWords",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "wordfreq (English word frequencies)",
+      "url": "https://github.com/rspeer/wordfreq",
+      "license": "CC BY-SA 4.0 (data), Apache 2.0 (code)"
+    },
+    {
+      "name": "Argos Translate en→ru (translate-en_ru-1_9, OPUS data) — offline machine translation of definitions",
+      "url": "https://github.com/argosopentech/argos-translate",
+      "license": "MIT (Argos Translate, CTranslate2); model trained on OPUS corpora by Aleksey Kutashov"
+    },
+    {
+      "name": "Facebook FAIR WMT19 en→ru (facebook/wmt19-en-ru) — second offline translation model",
+      "url": "https://huggingface.co/facebook/wmt19-en-ru",
+      "license": "Apache 2.0"
+    },
+    {
+      "name": "Google BERT base uncased — masked language model checking «Вставьте слово» distractors (build time)",
+      "url": "https://huggingface.co/google-bert/bert-base-uncased",
+      "license": "Apache 2.0"
+    },
+    {
+      "name": "LemmInflect (English inflections for gap-fill options)",
+      "url": "https://github.com/bjascob/LemmInflect",
+      "license": "MIT"
+    }
+  ]
+}

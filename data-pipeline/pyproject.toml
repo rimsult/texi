@@ -1,0 +1,8 @@
+[project]
+name = "lexi-pipeline"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = ["nltk>=3.9", "wordfreq>=3.1"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
